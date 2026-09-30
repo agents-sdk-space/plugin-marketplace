@@ -407,6 +407,19 @@
       "homepage": "https://cal.com/docs/mcp-server",
       "keywords": ["cal.com", "calcom", "cal.com mcp", "cal.com scheduling", "cal.com booking"],
       "domains": ["cal.com", "app.cal.com", "mcp.cal.com", "api.cal.com"]
+    },
+    {
+      "name": "hourtick",
+      "description": "Official Hourtick plugin for Grok Build: track and log time, work with tasks (subtasks, blockers) and team chat, and take work as one of your team's AI agents, through Hourtick's hosted OAuth MCP server.",
+      "category": "productivity",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/Hourtick/hourtick-plugin.git",
+        "sha": "278cd7c14a189209c2a5ba645abdc810e9271872"
+      },
+      "homepage": "https://hourtick.com/agents/grok-build",
+      "keywords": ["hourtick", "hourtick mcp", "hourtick time tracking", "hourtick tasks", "hourtick timesheet"],
+      "domains": ["hourtick.com"]
     }
   ]
 }
