@@ -407,6 +407,20 @@
       "homepage": "https://cal.com/docs/mcp-server",
       "keywords": ["cal.com", "calcom", "cal.com mcp", "cal.com scheduling", "cal.com booking"],
       "domains": ["cal.com", "app.cal.com", "mcp.cal.com", "api.cal.com"]
+    },
+    {
+      "name": "skyaccess",
+      "description": "SkyAccess private jet empty legs (hosted MCP server + skill). Search 5,000+ live empty leg flights, get charter price estimates and booking links. No account or API key.",
+      "category": "travel",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/sky-access/skyaccess-mcp.git",
+        "sha": "65c42fc68ea3706dbaaa2ac688b06b4c451cd532",
+        "path": "plugins/skyaccess"
+      },
+      "homepage": "https://skyaccess.com",
+      "keywords": ["skyaccess", "skyaccess empty legs", "skyaccess private jet", "skyaccess mcp"],
+      "domains": ["skyaccess.com", "mcp.skyaccess.com"]
     }
   ]
 }
