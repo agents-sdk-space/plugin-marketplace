@@ -899,6 +899,44 @@
         ]
       }
     },
+    "reach": {
+      "sha": "fe80b8ad3f04d82491a20549bba91d8282480a1d",
+      "version": "1.0.0",
+      "components": {
+        "mcpServers": [
+          {
+            "name": "reach",
+            "description": "http"
+          }
+        ],
+        "skills": [
+          {
+            "name": "competitor-watch",
+            "description": "Read-only Google Business Profile (GMB, Google My Business) competitor watch with the Reach MCP server. Lists the nearb…"
+          },
+          {
+            "name": "gbp-weekly-report",
+            "description": "Read-only weekly Google Business Profile (GMB, Google My Business) report with the Reach MCP server. Compares the last…"
+          },
+          {
+            "name": "local-rank-audit",
+            "description": "Local SEO rank audit for a Google Business Profile (GMB, Google My Business) with the Reach MCP server. Reads Google Ma…"
+          },
+          {
+            "name": "optimize-google-business-profile",
+            "description": "Optimize a Google Business Profile (GMB, Google My Business listing) with the Reach MCP server. Finds what the profile…"
+          },
+          {
+            "name": "reply-to-google-reviews",
+            "description": "Reply to Google reviews on a Google Business Profile (GMB, Google My Business) with the Reach MCP server. Finds unanswe…"
+          },
+          {
+            "name": "write-gbp-post",
+            "description": "Write and publish Google Business Profile posts (GMB posts, Google My Business updates, offers and events) with the Rea…"
+          }
+        ]
+      }
+    },
     "sentry": {
       "sha": "b0569b6255e7e02a5d9e164d32df3e969688cada",
       "version": "1.4.3",
