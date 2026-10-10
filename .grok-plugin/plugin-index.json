@@ -946,8 +946,8 @@
       }
     },
     "socialforge": {
-      "sha": "a160e9da9d3b328c0cee1f6b099106c6922edd9b",
-      "version": "1.29.0",
+      "sha": "f8ed7dd44a395cc2207f68c77e2e27143e2ec19d",
+      "version": "1.29.2",
       "components": {
         "agents": [
           {
@@ -1014,7 +1014,7 @@
           },
           {
             "name": "preview-batch",
-            "description": "Render preview mockups for all generated posts in one batch. \\\"preview all the posts\\\""
+            "description": "Render a preview card for every generated post in one batch. \\\"preview all the posts\\\""
           },
           {
             "name": "reactive-post",
@@ -1072,7 +1072,7 @@
           },
           {
             "name": "create-previews",
-            "description": "Create platform previews: post mockups on LinkedIn, Instagram, X and TikTok before publishing. \\\"show how this will loo…"
+            "description": "Create a preview card per platform: post copy, image and badge, to check copy and crop. \\\"show how this will look\\\""
           },
           {
             "name": "finalize-month",
