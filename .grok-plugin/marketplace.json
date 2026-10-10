@@ -415,7 +415,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/LocusIntelligence-DauAgency/reach-skills.git",
-        "sha": "172eb6b2ec4041006367d48c23a0511d07097793"
+        "sha": "2b10a6be9b9b9a990ae0beb360a21476fad41918"
       },
       "homepage": "https://reach.locus-intelligence.com/google-business-profile-mcp",
       "keywords": [
@@ -428,7 +428,7 @@
       "domains": [
         "reach.locus-intelligence.com"
       ],
-      "version": "1.1.0",
+      "version": "1.1.1",
       "author": {
         "name": "Reach by Locus"
       }

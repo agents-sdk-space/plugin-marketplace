@@ -900,8 +900,8 @@
       }
     },
     "reach": {
-      "sha": "172eb6b2ec4041006367d48c23a0511d07097793",
-      "version": "1.1.0",
+      "sha": "2b10a6be9b9b9a990ae0beb360a21476fad41918",
+      "version": "1.1.1",
       "components": {
         "mcpServers": [
           {
@@ -912,7 +912,7 @@
         "skills": [
           {
             "name": "add-local-business-schema",
-            "description": "Generate schema.org LocalBusiness JSON-LD from a live Google Business Profile (GMB, Google My Business) listing with th…"
+            "description": "Generate schema.org LocalBusiness JSON-LD from a connected Google Business Profile (GMB, Google My Business) listing wi…"
           },
           {
             "name": "categories-and-service-area",
