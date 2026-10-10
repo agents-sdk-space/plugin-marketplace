@@ -900,8 +900,8 @@
       }
     },
     "reach": {
-      "sha": "fe80b8ad3f04d82491a20549bba91d8282480a1d",
-      "version": "1.0.0",
+      "sha": "172eb6b2ec4041006367d48c23a0511d07097793",
+      "version": "1.1.0",
       "components": {
         "mcpServers": [
           {
@@ -911,16 +911,56 @@
         ],
         "skills": [
           {
+            "name": "add-local-business-schema",
+            "description": "Generate schema.org LocalBusiness JSON-LD from a live Google Business Profile (GMB, Google My Business) listing with th…"
+          },
+          {
+            "name": "categories-and-service-area",
+            "description": "Previews and updates additional categories and the service area of a Google Business Profile (GMB, Google My Business)…"
+          },
+          {
             "name": "competitor-watch",
             "description": "Read-only Google Business Profile (GMB, Google My Business) competitor watch with the Reach MCP server. Lists the nearb…"
+          },
+          {
+            "name": "gbp-photo-refresh",
+            "description": "Review and refresh the photos on a Google Business Profile (GMB, Google My Business) with the Reach MCP server. Reads p…"
+          },
+          {
+            "name": "gbp-post-calendar",
+            "description": "Plan a month of Google Business Profile (GMB, Google My Business) posts with the Reach MCP server. Builds a calendar fr…"
           },
           {
             "name": "gbp-weekly-report",
             "description": "Read-only weekly Google Business Profile (GMB, Google My Business) report with the Reach MCP server. Compares the last…"
           },
           {
+            "name": "growth-plan",
+            "description": "Walk a business owner through their open Google Business Profile (GMB, Google My Business) growth tasks with the Reach…"
+          },
+          {
+            "name": "holiday-hours",
+            "description": "Set special holiday opening hours on a Google Business Profile (GMB, Google My Business) with the Reach MCP server. Lis…"
+          },
+          {
+            "name": "keyword-picker",
+            "description": "Picks which local search keywords to track for a Google Business Profile (GMB, Google My Business) with the Reach MCP s…"
+          },
+          {
+            "name": "lead-follow-up",
+            "description": "Read-only lead follow-up for a Google Business Profile (GMB, Google My Business) with the Reach MCP server. Lists new l…"
+          },
+          {
             "name": "local-rank-audit",
             "description": "Local SEO rank audit for a Google Business Profile (GMB, Google My Business) with the Reach MCP server. Reads Google Ma…"
+          },
+          {
+            "name": "multi-location-report",
+            "description": "Read-only multi-location report for agencies and chains on Google Business Profile (GMB, Google My Business) with the R…"
+          },
+          {
+            "name": "not-showing-on-maps",
+            "description": "Read-only diagnosis of why a business is not showing on Google Maps or Search, for a Google Business Profile (GMB, Goog…"
           },
           {
             "name": "optimize-google-business-profile",
@@ -929,6 +969,14 @@
           {
             "name": "reply-to-google-reviews",
             "description": "Reply to Google reviews on a Google Business Profile (GMB, Google My Business) with the Reach MCP server. Finds unanswe…"
+          },
+          {
+            "name": "review-insights",
+            "description": "Analyze the Google reviews on a Google Business Profile (GMB, Google My Business) with the Reach MCP server. Reads the…"
+          },
+          {
+            "name": "review-request-kit",
+            "description": "Builds a Google review request kit for a Google Business Profile (GMB, Google My Business) with the Reach MCP server. F…"
           },
           {
             "name": "write-gbp-post",

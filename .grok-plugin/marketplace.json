@@ -410,12 +410,12 @@
     },
     {
       "name": "reach",
-      "description": "Google Business Profile review replies, posts, profile improvements, reporting, rankings and competitor monitoring through Reach.",
+      "description": "Google Business Profile skills through Reach: review replies and insights, posts and post calendars, profile, hours, categories and photo fixes, growth plans, leads, review requests, reports, rankings, Maps visibility, competitors and website schema.",
       "category": "marketing",
       "source": {
         "source": "url",
         "url": "https://github.com/LocusIntelligence-DauAgency/reach-skills.git",
-        "sha": "fe80b8ad3f04d82491a20549bba91d8282480a1d"
+        "sha": "172eb6b2ec4041006367d48c23a0511d07097793"
       },
       "homepage": "https://reach.locus-intelligence.com/google-business-profile-mcp",
       "keywords": [
@@ -428,7 +428,7 @@
       "domains": [
         "reach.locus-intelligence.com"
       ],
-      "version": "1.0.0",
+      "version": "1.1.0",
       "author": {
         "name": "Reach by Locus"
       }
