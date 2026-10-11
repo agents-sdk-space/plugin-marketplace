@@ -1526,6 +1526,24 @@
         ]
       }
     },
+    "virustotal": {
+      "sha": "c5d145b2e6da50346d6c0c8c06fb33f83ac791c5",
+      "version": "0.1.0",
+      "components": {
+        "mcpServers": [
+          {
+            "name": "virustotal",
+            "description": "http"
+          }
+        ],
+        "skills": [
+          {
+            "name": "threat-intelligence",
+            "description": "Investigates file hashes, URLs, domains and IP addresses with VirusTotal reports. Guides authorized analysis requests,…"
+          }
+        ]
+      }
+    },
     "wix": {
       "sha": "729aea746648521e654a19575ccfee54b67f8519",
       "version": "1.31.1",

@@ -407,6 +407,25 @@
       "homepage": "https://cal.com/docs/mcp-server",
       "keywords": ["cal.com", "calcom", "cal.com mcp", "cal.com scheduling", "cal.com booking"],
       "domains": ["cal.com", "app.cal.com", "mcp.cal.com", "api.cal.com"]
+    },
+    {
+      "name": "virustotal",
+      "description": "VirusTotal threat intelligence: investigate file hashes, URLs, domains and IP addresses with VirusTotal reports, run explicitly requested analyses and recover submissions through a hosted OAuth MCP server.",
+      "category": "security",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/VirusTotal/virustotal-mcp.git",
+        "sha": "c5d145b2e6da50346d6c0c8c06fb33f83ac791c5",
+        "path": "plugins/grok-build"
+      },
+      "homepage": "https://github.com/VirusTotal/virustotal-mcp/blob/main/plugins/grok-build/README.md",
+      "keywords": [
+        "virustotal",
+        "vtai"
+      ],
+      "domains": [
+        "virustotal.com"
+      ]
     }
   ]
 }
