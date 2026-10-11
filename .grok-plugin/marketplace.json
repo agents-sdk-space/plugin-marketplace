@@ -410,16 +410,16 @@
     },
     {
       "name": "cyango",
-      "description": "Edit a live Cyango Studio story on this computer. Starts the Cyango connector locally and includes the editing guide for scenes, layout, models, and interactions. Open a story in Studio and turn MCP on in Story Settings.",
+      "description": "Edit a live Cyango xr/studio story on this computer. Starts the Cyango connector locally and includes the editing guide for scenes, layout, models, and interactions. Open a story in Cyango xr/studio and turn MCP on in Story Settings.",
       "category": "development",
       "source": {
         "source": "url",
         "url": "https://github.com/joaomelorodrigues/cyango-skills.git",
-        "sha": "083a3203d26eac3dc95fa4316d4613eb1526ade5",
+        "sha": "b8799af05a123d25a6b795d375a6bfa15fa25b17",
         "path": "plugin"
       },
       "homepage": "https://www.cyango.com/xr-studio",
-      "keywords": ["cyango", "cyango studio", "xr", "3d"],
+      "keywords": ["cyango", "cyango xr/studio", "xr", "3d"],
       "domains": ["cyango.com"]
     }
   ]
