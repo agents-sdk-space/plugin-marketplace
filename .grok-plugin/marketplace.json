@@ -407,6 +407,20 @@
       "homepage": "https://cal.com/docs/mcp-server",
       "keywords": ["cal.com", "calcom", "cal.com mcp", "cal.com scheduling", "cal.com booking"],
       "domains": ["cal.com", "app.cal.com", "mcp.cal.com", "api.cal.com"]
+    },
+    {
+      "name": "cyango",
+      "description": "Edit a live Cyango Studio story on this computer. Starts the Cyango connector locally and includes the editing guide for scenes, layout, models, and interactions. Open a story in Studio and turn MCP on in Story Settings.",
+      "category": "development",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/joaomelorodrigues/cyango-skills.git",
+        "sha": "d92d7179e383f35f6359683d5427321209476c68",
+        "path": "plugin"
+      },
+      "homepage": "https://www.cyango.com/xr-studio",
+      "keywords": ["cyango", "cyango studio", "xr", "3d"],
+      "domains": ["cyango.com"]
     }
   ]
 }
