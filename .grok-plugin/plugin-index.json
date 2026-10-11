@@ -410,6 +410,32 @@
         ]
       }
     },
+    "gm-labs-data": {
+      "sha": "d3e2b3766e3e7aa223dec6e84c37f6ba5193dfdb",
+      "version": "0.1.0",
+      "components": {
+        "mcpServers": [
+          {
+            "name": "gm-labs-data",
+            "description": "http"
+          }
+        ],
+        "skills": [
+          {
+            "name": "gm-labs-government-filings",
+            "description": "Pull US government filings with GM Labs Actors - TTB alcohol producer/importer permits, new UCC-1 lien filings, and sta…"
+          },
+          {
+            "name": "gm-labs-jobs",
+            "description": "Collect public job postings from Greenhouse, Lever and Ashby job boards with the GM Labs ATS jobs Actor. Use when the u…"
+          },
+          {
+            "name": "gm-labs-web-capture",
+            "description": "Take full-page website screenshots with the GM Labs fast screenshot Actor (pay only for successful shots). Use when the…"
+          }
+        ]
+      }
+    },
     "helena": {
       "sha": "9b71516e006144d323f138f1785f55123ec51931",
       "version": "1.0.0",
