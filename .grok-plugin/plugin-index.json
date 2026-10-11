@@ -1,8 +1,8 @@
 {
   "version": 1,
   "plugins": {
-    "anchor": {
-      "sha": "5f6403977375efaead61ba560877393525cb9462",
+    "anchorbrowser": {
+      "sha": "de6a60a13c1c5273b382169c92ea5de679aaa5ca",
       "version": "1.0.0",
       "components": {
         "mcpServers": [

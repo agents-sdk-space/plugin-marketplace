@@ -409,13 +409,13 @@
       "domains": ["cal.com", "app.cal.com", "mcp.cal.com", "api.cal.com"]
     },
     {
-      "name": "anchor",
+      "name": "anchorbrowser",
       "description": "Anchor Browser cloud browsers for agents via Anchor's hosted MCP servers. Run web tasks that get past bot detection, call verified site actions, run saved automations, use managed logins with MFA, open browser sessions with residential proxies and captcha solving, and drive a live browser step by step. Sign in with your Anchor account on first connection; no API key needed.",
       "category": "development",
       "source": {
         "source": "url",
         "url": "https://github.com/anchorbrowser/anchor-mcp-plugin.git",
-        "sha": "5f6403977375efaead61ba560877393525cb9462",
+        "sha": "de6a60a13c1c5273b382169c92ea5de679aaa5ca",
         "path": "grok"
       },
       "homepage": "https://docs.anchorbrowser.io/advanced/mcp",
