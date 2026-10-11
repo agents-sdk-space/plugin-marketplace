@@ -227,8 +227,8 @@
       }
     },
     "cyango": {
-      "sha": "d92d7179e383f35f6359683d5427321209476c68",
-      "version": "1.5.15",
+      "sha": "083a3203d26eac3dc95fa4316d4613eb1526ade5",
+      "version": "1.5.16",
       "components": {
         "mcpServers": [
           {
