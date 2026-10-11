@@ -422,6 +422,24 @@
         ]
       }
     },
+    "magicinterview": {
+      "sha": "2da60574bd1aad5008c0cd8ccab2cecd75732b6a",
+      "version": "1.3.0",
+      "components": {
+        "mcpServers": [
+          {
+            "name": "magicinterview",
+            "description": "http"
+          }
+        ],
+        "skills": [
+          {
+            "name": "meeting-prep",
+            "description": "Set up MagicInterview live help for job interviews, client calls, sales conversations, and other meetings. Connect the…"
+          }
+        ]
+      }
+    },
     "modern-web-guidance": {
       "sha": "a97286845f2baba38988f9e5fe2b2a1351021e50",
       "version": "0.0.193",
