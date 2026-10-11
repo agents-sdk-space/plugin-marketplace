@@ -1,0 +1,13 @@
+{
+  "name": "zikui-ai",
+  "version": "1.0.0",
+  "description": "Zikui AI for Grok Build via the hosted Zikui AI MCP server at zikui.ai. Check Israeli parking fines with the issuing city (including the enforcement photos), read a photo or PDF of a fine, follow your appeals, statuses and deadlines, and prepare an appeal that you finish on zikui.ai. Sign in with your Zikui AI account on first connect.",
+  "author": {
+    "name": "Zikui AI",
+    "url": "https://zikui.ai"
+  },
+  "homepage": "https://zikui.ai/ai-assistants",
+  "license": "MIT",
+  "keywords": ["zikui", "zikui ai", "zikui.ai", "zikui appeal", "zikui fine"],
+  "logo": "assets/logo.png"
+}

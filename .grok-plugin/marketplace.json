@@ -407,6 +407,18 @@
       "homepage": "https://cal.com/docs/mcp-server",
       "keywords": ["cal.com", "calcom", "cal.com mcp", "cal.com scheduling", "cal.com booking"],
       "domains": ["cal.com", "app.cal.com", "mcp.cal.com", "api.cal.com"]
+    },
+    {
+      "name": "zikui-ai",
+      "description": "Zikui AI for Israeli parking and traffic fines (hosted MCP server + skill). Check a parking fine with the issuing city including the enforcement photos, read a photo or PDF of a fine, follow your appeals and deadlines, and prepare an appeal you finish on zikui.ai. Sign in with your Zikui AI account; no API key needed.",
+      "category": "productivity",
+      "source": {
+        "type": "local",
+        "path": "./external_plugins/zikui-ai"
+      },
+      "homepage": "https://zikui.ai/ai-assistants",
+      "keywords": ["zikui", "zikui ai", "zikui.ai", "zikui appeal", "zikui fine"],
+      "domains": ["zikui.ai", "app.zikui.ai"]
     }
   ]
 }

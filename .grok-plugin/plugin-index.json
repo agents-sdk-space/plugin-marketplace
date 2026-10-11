@@ -1583,6 +1583,23 @@
           }
         ]
       }
+    },
+    "zikui-ai": {
+      "version": "1.0.0",
+      "components": {
+        "mcpServers": [
+          {
+            "name": "zikui-ai",
+            "description": "http"
+          }
+        ],
+        "skills": [
+          {
+            "name": "zikui-ai",
+            "description": "Work with Zikui AI through the Zikui AI MCP server: check an Israeli parking fine with the issuing city and see its enf…"
+          }
+        ]
+      }
     }
   }
 }
