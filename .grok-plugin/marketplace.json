@@ -407,6 +407,27 @@
       "homepage": "https://cal.com/docs/mcp-server",
       "keywords": ["cal.com", "calcom", "cal.com mcp", "cal.com scheduling", "cal.com booking"],
       "domains": ["cal.com", "app.cal.com", "mcp.cal.com", "api.cal.com"]
+    },
+    {
+      "name": "cueedit",
+      "description": "CueEdit Instagram and Facebook Page engagement (hosted MCP server). Reply to comments, create and manage comment-to-DM auto-reply rules, and list scheduled posts across your connected accounts. Sign in with your CueEdit account; no API key needed.",
+      "category": "productivity",
+      "source": {
+        "type": "local",
+        "path": "./external_plugins/cueedit"
+      },
+      "homepage": "https://www.cueedit.io",
+      "keywords": [
+        "cueedit",
+        "cueedit.io",
+        "cueedit mcp",
+        "cueedit auto dm",
+        "cueedit instagram"
+      ],
+      "domains": [
+        "cueedit.io",
+        "www.cueedit.io"
+      ]
     }
   ]
 }
