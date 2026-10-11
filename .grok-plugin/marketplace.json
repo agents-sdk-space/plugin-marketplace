@@ -407,6 +407,18 @@
       "homepage": "https://cal.com/docs/mcp-server",
       "keywords": ["cal.com", "calcom", "cal.com mcp", "cal.com scheduling", "cal.com booking"],
       "domains": ["cal.com", "app.cal.com", "mcp.cal.com", "api.cal.com"]
+    },
+    {
+      "name": "clipfabulous",
+      "description": "Create and edit JPEG images, quote credit costs, check account credits, and retrieve saved creations through the hosted ClipFabulous MCP server. Sign in with your ClipFabulous account.",
+      "category": "productivity",
+      "source": {
+        "type": "local",
+        "path": "./external_plugins/clipfabulous"
+      },
+      "homepage": "https://clipfabulous.com",
+      "keywords": ["clipfabulous", "clipfabulous mcp", "clipfabulous images"],
+      "domains": ["clipfabulous.com"]
     }
   ]
 }

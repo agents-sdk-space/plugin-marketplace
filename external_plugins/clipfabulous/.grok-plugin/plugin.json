@@ -1,0 +1,16 @@
+{
+  "name": "clipfabulous",
+  "version": "0.1.2",
+  "description": "Create and edit JPEG images, quote credit costs, check account credits, and retrieve saved creations using your ClipFabulous account.",
+  "author": {
+    "name": "Michael Alexander",
+    "url": "https://clipfabulous.com"
+  },
+  "homepage": "https://clipfabulous.com",
+  "license": "MIT",
+  "keywords": [
+    "clipfabulous",
+    "clipfabulous mcp",
+    "clipfabulous images"
+  ]
+}

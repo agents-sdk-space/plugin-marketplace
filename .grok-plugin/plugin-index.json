@@ -156,6 +156,17 @@
         ]
       }
     },
+    "clipfabulous": {
+      "version": "0.1.2",
+      "components": {
+        "mcpServers": [
+          {
+            "name": "clipfabulous",
+            "description": "http"
+          }
+        ]
+      }
+    },
     "cloudflare": {
       "sha": "626547c06881a20b3322bdc2ed6e6451b33a4fb6",
       "version": "1.0.1",
