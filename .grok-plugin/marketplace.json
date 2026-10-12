@@ -407,6 +407,24 @@
       "homepage": "https://cal.com/docs/mcp-server",
       "keywords": ["cal.com", "calcom", "cal.com mcp", "cal.com scheduling", "cal.com booking"],
       "domains": ["cal.com", "app.cal.com", "mcp.cal.com", "api.cal.com"]
+    },
+    {
+      "name": "svatlas",
+      "description": "Search AI startups and founders, find the companies most likely to buy a product, and keep outreach lists, from the sourced Silicon Valley Atlas directory.",
+      "category": "productivity",
+      "source": {
+        "type": "local",
+        "path": "./external_plugins/svatlas"
+      },
+      "homepage": "https://svatlas.io",
+      "keywords": [
+        "svatlas",
+        "sv atlas",
+        "silicon valley atlas"
+      ],
+      "domains": [
+        "svatlas.io"
+      ]
     }
   ]
 }
