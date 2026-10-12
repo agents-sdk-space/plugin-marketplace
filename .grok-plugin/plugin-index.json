@@ -423,8 +423,8 @@
       }
     },
     "kemory": {
-      "sha": "6334fa0e891dc6f1b719698c49af7dcf2cb2e6e5",
-      "version": "0.8.1",
+      "sha": "03b2b8a3225bc480606d428b50e939bde7f301ed",
+      "version": "0.13.2",
       "components": {
         "commands": [
           {
@@ -439,11 +439,7 @@
         "hooks": [
           {
             "name": "PostToolUse",
-            "description": "mcp__.*__kemory_(recall.*|ask|find_similar|get_.*)"
-          },
-          {
-            "name": "PreToolUse",
-            "description": "mcp__.*__(kemory|s9nmem)_.*"
+            "description": "(mcp__.*__|[A-Za-z0-9-]+__)kemory_(recall.*|ask|find_similar|get_.*)"
           },
           {
             "name": "SessionEnd"
