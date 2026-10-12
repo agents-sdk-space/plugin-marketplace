@@ -1169,6 +1169,18 @@
         ]
       }
     },
+    "timelinesai-whatsapp": {
+      "sha": "1ad0538b16a52af7dd151d473b5b8e0fea02c796",
+      "version": "1.0.2",
+      "components": {
+        "mcpServers": [
+          {
+            "name": "timelinesai",
+            "description": "http"
+          }
+        ]
+      }
+    },
     "tinyfish": {
       "sha": "df5734f8ff3affa362c29ed3e1980add8b4d1372",
       "version": "1.1.0",
