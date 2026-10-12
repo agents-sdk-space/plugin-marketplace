@@ -2,8 +2,8 @@
   "version": 1,
   "plugins": {
     "axiom": {
-      "sha": "8f26649612042662c1ea8318ff27a49a7c24531f",
-      "version": "1.1.0",
+      "sha": "001b3a883fddd8170003aa12c236205fb9eecad6",
+      "version": "1.1.2",
       "components": {
         "mcpServers": [
           {
@@ -30,11 +30,7 @@
           },
           {
             "name": "metrics-chart",
-            "description": "Render Axiom metrics query results (application/vnd.metrics.v3+json) as line charts. Zero-dependency Unicode/ASCII by d…"
-          },
-          {
-            "name": "query-metrics",
-            "description": "Runs metrics queries against Axiom MetricsDB via scripts. Discovers available metrics, tags, and tag values. Use when a…"
+            "description": "Render saved Axiom metrics v2 or v3 JSON as line charts in a terminal or transcript. Uses Unicode/ASCII by default and…"
           },
           {
             "name": "spl-to-apl",
@@ -481,8 +477,8 @@
       }
     },
     "modern-web-guidance": {
-      "sha": "650eb83619134adb947b1ee8755e6511270bc444",
-      "version": "0.0.192",
+      "sha": "a97286845f2baba38988f9e5fe2b2a1351021e50",
+      "version": "0.0.193",
       "components": {
         "skills": [
           {
@@ -705,7 +701,7 @@
       }
     },
     "pstack": {
-      "sha": "df581122cde17e6e27686b5a448bde23e4ad4318",
+      "sha": "ccb5507cec1546dc88135c1139c811e6c59115ba",
       "components": {
         "agents": [
           {
@@ -1004,8 +1000,8 @@
       }
     },
     "stripe": {
-      "sha": "e4856d5f871fb9c347db2ce8e5a96f6513393d11",
-      "version": "0.9.10",
+      "sha": "08d371a9fbe098ecc943713a70a669ef05cfa6d6",
+      "version": "0.9.12",
       "components": {
         "agents": [
           {
@@ -1390,8 +1386,8 @@
       }
     },
     "vercel": {
-      "sha": "f42fa617f208b3b192c9ec636cba1fb025924407",
-      "version": "0.54.0",
+      "sha": "82fa491886796702df4727fd0845f0c7c1d3d16e",
+      "version": "0.54.1",
       "components": {
         "agents": [
           {
@@ -1585,8 +1581,8 @@
       }
     },
     "wix": {
-      "sha": "4895cc9094b4fef2cf7cb7a2c408644aa58ab19d",
-      "version": "1.26.0",
+      "sha": "729aea746648521e654a19575ccfee54b67f8519",
+      "version": "1.31.1",
       "components": {
         "mcpServers": [
           {
@@ -1626,6 +1622,10 @@
           {
             "name": "wix-headless-kit",
             "description": "Build a Wix Headless site fast by wiring SHIPPED, verified @wix/sdk code instead of authoring the integration from reci…"
+          },
+          {
+            "name": "wix-headless-templates",
+            "description": "The shipped, verified code behind Wix Headless sites, one folder per Wix Business Solution: an online store, bookings,…"
           },
           {
             "name": "wix-manage",
