@@ -31,6 +31,6 @@ Applying sends the user's information to an employer. The skills require clear a
 
 ## Release and support
 
-This package matches the ten skills in [AI Applyd 1.8.4](https://github.com/aiapplyd/aiapplyd-mcp/releases/tag/v1.8.4). Source: https://github.com/aiapplyd/aiapplyd-mcp. Support: https://aiapplyd.com/support.
+This package matches the ten skills in [AI Applyd 1.8.5](https://github.com/aiapplyd/aiapplyd-mcp/releases/tag/v1.8.5). Source: https://github.com/aiapplyd/aiapplyd-mcp. Support: https://aiapplyd.com/support.
 
 MIT licensed.
