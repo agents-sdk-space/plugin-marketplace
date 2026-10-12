@@ -1,0 +1,12 @@
+{
+  "name": "cueedit",
+  "version": "1.0.0",
+  "description": "CueEdit Instagram and Facebook Page engagement via the hosted MCP at www.cueedit.io. Reply to comments, manage comment-to-DM auto-reply rules, and list scheduled posts across your connected accounts. Sign in with your CueEdit account on first connect.",
+  "author": {
+    "name": "CueEdit",
+    "url": "https://www.cueedit.io"
+  },
+  "homepage": "https://www.cueedit.io",
+  "license": "Proprietary",
+  "keywords": ["cueedit", "cueedit.io", "cueedit mcp", "cueedit auto dm", "cueedit instagram"]
+}
