@@ -249,8 +249,8 @@
       }
     },
     "dreamstate": {
-      "sha": "ec5e1e8b03f4fa275ff82a778d6f54014e4c16f1",
-      "version": "1.3.1",
+      "sha": "b814524ce3f216f334ca1e049cbb5fd9e0b0a339",
+      "version": "1.3.2",
       "components": {
         "mcpServers": [
           {
