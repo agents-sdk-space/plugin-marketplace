@@ -1,0 +1,13 @@
+{
+  "name": "optimal-beam",
+  "version": "1.0.0",
+  "description": "Analyze linear elastic beams and explore steel sections with Optimal Beam's seven read-only tools. No account or API key required.",
+  "author": {
+    "name": "Optimal Beam Inc.",
+    "email": "contact@optimalbeam.com",
+    "url": "https://optimalbeam.com"
+  },
+  "homepage": "https://optimalbeam.com/plugin-support.html",
+  "license": "MIT",
+  "keywords": ["optimal-beam", "optimal beam", "optimalbeam"]
+}

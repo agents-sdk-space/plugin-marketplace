@@ -407,6 +407,25 @@
       "homepage": "https://cal.com/docs/mcp-server",
       "keywords": ["cal.com", "calcom", "cal.com mcp", "cal.com scheduling", "cal.com booking"],
       "domains": ["cal.com", "app.cal.com", "mcp.cal.com", "api.cal.com"]
+    },
+    {
+      "name": "optimal-beam",
+      "description": "Analyze linear elastic beams, calculate reactions and deflection, and search and compare steel sections with Optimal Beam. Seven read-only tools; no account or API key required.",
+      "category": "productivity",
+      "source": {
+        "type": "local",
+        "path": "./external_plugins/optimal-beam"
+      },
+      "homepage": "https://optimalbeam.com/plugin-support.html",
+      "keywords": [
+        "optimal-beam",
+        "optimal beam",
+        "optimalbeam"
+      ],
+      "domains": [
+        "optimalbeam.com",
+        "mcp.optimalbeam.com"
+      ]
     }
   ]
 }
