@@ -413,8 +413,9 @@
       "description": "moomoo quotes, stock screening, news, and account trading. Connects to the hosted MCP at mcp.moomoo.com and signs in with a moomoo account on first use.",
       "category": "finance",
       "source": {
-        "type": "local",
-        "path": "./external_plugins/moomoo-mcp"
+        "source": "url",
+        "url": "https://github.com/MoomooOpen/moomoo-agent-plugin.git",
+        "sha": "0b28d3c23f08702fd0afae9d3a639ff0fb21290b"
       },
       "homepage": "https://www.moomoo.com",
       "keywords": ["moomoo", "moomoo mcp"],

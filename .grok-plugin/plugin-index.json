@@ -519,6 +519,7 @@
       }
     },
     "moomoo-mcp": {
+      "sha": "0b28d3c23f08702fd0afae9d3a639ff0fb21290b",
       "version": "1.0.0",
       "components": {
         "mcpServers": [
@@ -530,19 +531,19 @@
         "skills": [
           {
             "name": "moomoo-mcp-account",
-            "description": "moomoo 账户交易 — 真实交易(下单/改单/撤单/确认)/模拟交易/账户/资金/持仓/订单/成交"
+            "description": "moomoo Account Trading — Real trading (place/modify/cancel/confirm orders) / Simulated trading / Account / Funds / Posi…"
           },
           {
             "name": "moomoo-mcp-news",
-            "description": "moomoo 资讯研究 — 新闻搜索/社区/个股动态/经济日历/财报/估值/评级/股东/内部人/公司研究/资金流向"
+            "description": "moomoo Information & Research — News Search / Community / Stock Feed / Economic Calendar / Financials / Valuation / Rat…"
           },
           {
             "name": "moomoo-mcp-quote",
-            "description": "moomoo 行情数据 — 实时报价/K线/盘口/分时/逐笔/快照/市场状态/交易日/自选股/板块"
+            "description": "moomoo market data — real-time quotes/K-lines/order book/time-sharing/tick-by-tick/snapshots/market state/trading days/…"
           },
           {
             "name": "moomoo-mcp-screen",
-            "description": "moomoo 选股筛选器 — 股票多因子筛选/窝轮牛熊证筛选/期权筛选/IPO列表"
+            "description": "moomoo stock screener — multi-factor stock screening / warrant & CBBC screening / option screening / IPO lists"
           }
         ]
       }
