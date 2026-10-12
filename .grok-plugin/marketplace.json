@@ -407,6 +407,20 @@
       "homepage": "https://cal.com/docs/mcp-server",
       "keywords": ["cal.com", "calcom", "cal.com mcp", "cal.com scheduling", "cal.com booking"],
       "domains": ["cal.com", "app.cal.com", "mcp.cal.com", "api.cal.com"]
+    },
+    {
+      "name": "trendsagi",
+      "description": "TrendsAGI live trend intelligence for paid media and growth teams (hosted MCP server + skill). Find topics accelerating in your market before auctions get crowded, check whether a trend is still rising before moving budget, pull audience and marketing angles into ad copy, and review evidence-backed recommendations. Read-only; sign in with your TrendsAGI account, no API key needed.",
+      "category": "productivity",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/TrendsAGI/TrendsAGI.git",
+        "sha": "19cdf769c3243537bc16b5fbcae664a17980503a",
+        "path": "plugins/trendsagi"
+      },
+      "homepage": "https://trendsagi.com/mcp",
+      "keywords": ["trendsagi", "trendsagi mcp", "trendsagi trends", "trendsagi paid media"],
+      "domains": ["trendsagi.com", "api.trendsagi.com", "app.trendsagi.com"]
     }
   ]
 }
