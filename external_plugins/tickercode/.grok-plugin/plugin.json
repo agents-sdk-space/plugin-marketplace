@@ -2,8 +2,18 @@
   "name": "tickercode",
   "version": "0.4.2",
   "description": "Japanese stocks, financials, company disclosures and your own watchlists through TickerCode's hosted MCP server. Sign in to TickerCode with OAuth on first connection.",
-  "author": {"name": "株式会社TC", "email": "info@tc-kk.com", "url": "https://tc-kk.com"},
+  "author": {
+    "name": "株式会社TC",
+    "email": "info@tc-kk.com",
+    "url": "https://tc-kk.com"
+  },
   "homepage": "https://ticker-code.com",
   "license": "MIT",
-  "keywords": ["tickercode", "Japanese stocks", "disclosures", "financials", "watchlist", "mcp"]
+  "keywords": [
+    "tickercode",
+    "ticker-code",
+    "tickercode stocks",
+    "tickercode disclosures",
+    "tickercode watchlist"
+  ]
 }

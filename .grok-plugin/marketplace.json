@@ -419,11 +419,10 @@
       "homepage": "https://ticker-code.com",
       "keywords": [
         "tickercode",
-        "Japanese stocks",
-        "disclosures",
-        "financials",
-        "watchlist",
-        "mcp"
+        "ticker-code",
+        "tickercode stocks",
+        "tickercode disclosures",
+        "tickercode watchlist"
       ],
       "domains": [
         "ticker-code.com",
