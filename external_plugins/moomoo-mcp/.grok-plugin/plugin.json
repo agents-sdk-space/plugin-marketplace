@@ -1,0 +1,12 @@
+{
+  "name": "moomoo-mcp",
+  "version": "1.0.0",
+  "description": "moomoo quotes, screening, news, and account trading via the hosted MCP at mcp.moomoo.com. Sign in with a moomoo account on first connect.",
+  "author": {
+    "name": "moomoo",
+    "url": "https://www.moomoo.com"
+  },
+  "homepage": "https://www.moomoo.com",
+  "license": "MIT",
+  "keywords": ["moomoo", "moomoo mcp"]
+}
