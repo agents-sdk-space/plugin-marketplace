@@ -646,6 +646,24 @@
         ]
       }
     },
+    "patch-mcp": {
+      "sha": "130c4880976d6b94d011abb36325731c7545fd3e",
+      "version": "1.2.0",
+      "components": {
+        "mcpServers": [
+          {
+            "name": "patch-mcp",
+            "description": "http"
+          }
+        ],
+        "skills": [
+          {
+            "name": "patch-mcp",
+            "description": "Make authorized phone calls with Patch MCP, follow progress, and report actual results."
+          }
+        ]
+      }
+    },
     "pstack": {
       "sha": "ccb5507cec1546dc88135c1139c811e6c59115ba",
       "components": {

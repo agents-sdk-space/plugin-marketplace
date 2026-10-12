@@ -407,6 +407,26 @@
       "homepage": "https://cal.com/docs/mcp-server",
       "keywords": ["cal.com", "calcom", "cal.com mcp", "cal.com scheduling", "cal.com booking"],
       "domains": ["cal.com", "app.cal.com", "mcp.cal.com", "api.cal.com"]
+    },
+    {
+      "name": "patch-mcp",
+      "description": "Give Grok a phone line. Patch MCP makes authorized calls from your verified number and returns outcomes, transcripts and recordings. Check route availability and usage, listen live, stop calls and manage visibility. Five free US/Canada calls; other supported routes require a paid plan. Texting is coming soon.",
+      "category": "productivity",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/manu-labs/patch-mcp-grok-plugin.git",
+        "sha": "130c4880976d6b94d011abb36325731c7545fd3e"
+      },
+      "homepage": "https://www.patchmcp.com",
+      "keywords": [
+        "patch mcp",
+        "patchmcp",
+        "patch-mcp"
+      ],
+      "domains": [
+        "patchmcp.com",
+        "www.patchmcp.com"
+      ]
     }
   ]
 }
