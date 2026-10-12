@@ -945,6 +945,24 @@
         ]
       }
     },
+    "skyaccess": {
+      "sha": "65c42fc68ea3706dbaaa2ac688b06b4c451cd532",
+      "version": "1.0.2",
+      "components": {
+        "mcpServers": [
+          {
+            "name": "skyaccess",
+            "description": "http"
+          }
+        ],
+        "skills": [
+          {
+            "name": "empty-legs",
+            "description": "Search live private jet empty leg flights, re-check one flight, get a SkyAccess booking link, or get an indicative full…"
+          }
+        ]
+      }
+    },
     "stripe": {
       "sha": "08d371a9fbe098ecc943713a70a669ef05cfa6d6",
       "version": "0.9.12",
