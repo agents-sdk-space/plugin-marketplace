@@ -1169,6 +1169,18 @@
         ]
       }
     },
+    "taxi-phv-regevidencehub": {
+      "sha": "052783c8f19a716919527b5f06e844f581559ce5",
+      "version": "1.0.0",
+      "components": {
+        "mcpServers": [
+          {
+            "name": "Taxi / PHV — RegEvidenceHub",
+            "description": "http"
+          }
+        ]
+      }
+    },
     "tinyfish": {
       "sha": "df5734f8ff3affa362c29ed3e1980add8b4d1372",
       "version": "1.1.0",
