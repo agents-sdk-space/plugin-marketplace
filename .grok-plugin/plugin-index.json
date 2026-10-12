@@ -899,6 +899,32 @@
         ]
       }
     },
+    "segmind": {
+      "sha": "2c12f2b3c4fcef0453c74bfb307ce87f4bad091b",
+      "version": "1.0.0",
+      "components": {
+        "mcpServers": [
+          {
+            "name": "segmind",
+            "description": "http"
+          }
+        ],
+        "skills": [
+          {
+            "name": "pixelflow-builder",
+            "description": "Find, run, build, save, edit and publish Segmind Pixelflows (saved multi-model workflows) through the Segmind MCP tools…"
+          },
+          {
+            "name": "segmind",
+            "description": "Generate images, video, audio, speech, music and 3D assets with Segmind's models through the Segmind MCP server, and sa…"
+          },
+          {
+            "name": "segmind-api",
+            "description": "Write application code that calls the Segmind API (the segmind Python SDK, or plain HTTP from TypeScript, JavaScript, c…"
+          }
+        ]
+      }
+    },
     "sentry": {
       "sha": "b0569b6255e7e02a5d9e164d32df3e969688cada",
       "version": "1.4.3",
