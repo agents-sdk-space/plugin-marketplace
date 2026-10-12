@@ -407,6 +407,20 @@
       "homepage": "https://cal.com/docs/mcp-server",
       "keywords": ["cal.com", "calcom", "cal.com mcp", "cal.com scheduling", "cal.com booking"],
       "domains": ["cal.com", "app.cal.com", "mcp.cal.com", "api.cal.com"]
+    },
+    {
+      "name": "keeploop",
+      "description": "Keeploop for Apple Mail, Calendar and Messages on your Mac. Search mail, read threads, see who is waiting on a reply and draft replies under your own rules. Runs on your Mac with no Keeploop server in the path; needs the Keeploop app, and local use is free.",
+      "category": "productivity",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/keeploopapp/claude-plugin.git",
+        "sha": "e73cc39ad25e2e3c9194fd8a33c1bd1b93eee576",
+        "path": "plugins/keeploop"
+      },
+      "homepage": "https://keeploop.app",
+      "keywords": ["keeploop", "keeploop mail", "keeploop app"],
+      "domains": ["keeploop.app"]
     }
   ]
 }
