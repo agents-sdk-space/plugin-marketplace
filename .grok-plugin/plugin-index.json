@@ -957,6 +957,18 @@
         ]
       }
     },
+    "speedbot": {
+      "sha": "c3747c13b2f872e701b545e2651f0a1a282faf91",
+      "version": "1.0.0",
+      "components": {
+        "mcpServers": [
+          {
+            "name": "speedbot",
+            "description": "http"
+          }
+        ]
+      }
+    },
     "stripe": {
       "sha": "15e3db59ba17ff4ff08d787333ea803b47f38674",
       "version": "0.9.16",
