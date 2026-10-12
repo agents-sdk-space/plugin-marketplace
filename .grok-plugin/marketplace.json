@@ -407,6 +407,19 @@
       "homepage": "https://cal.com/docs/mcp-server",
       "keywords": ["cal.com", "calcom", "cal.com mcp", "cal.com scheduling", "cal.com booking"],
       "domains": ["cal.com", "app.cal.com", "mcp.cal.com", "api.cal.com"]
+    },
+    {
+      "name": "futu-mcp",
+      "description": "Futu quotes, stock screening, news, and account trading. Connects to the hosted MCP at mcp.futunn.com and signs in with a Futu account on first use.",
+      "category": "finance",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/FutunnOpen/futu-agent-plugin.git",
+        "sha": "a1cfd82087453e0089a11fedc45f36ea85039930"
+      },
+      "homepage": "https://www.futunn.com",
+      "keywords": ["futu", "futunn", "futu mcp"],
+      "domains": ["futunn.com", "www.futunn.com", "mcp.futunn.com", "open.futunn.com"]
     }
   ]
 }
