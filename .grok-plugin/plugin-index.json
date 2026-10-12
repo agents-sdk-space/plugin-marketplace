@@ -249,8 +249,8 @@
       }
     },
     "digital-marketing-pro": {
-      "sha": "f84e7ba06ccd7c6a6f96cf51f64097d4bb734e3d",
-      "version": "3.35.3",
+      "sha": "dd65250cfe4ed98ab46b84f40b6b57eae87cf0e8",
+      "version": "3.35.8",
       "components": {
         "agents": [
           {
