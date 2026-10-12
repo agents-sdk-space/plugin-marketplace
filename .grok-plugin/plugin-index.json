@@ -658,6 +658,24 @@
         ]
       }
     },
+    "openpost": {
+      "sha": "da813c9d26dbbadfb225e6c1d291a7c813b9ab46",
+      "version": "1.0.0",
+      "components": {
+        "mcpServers": [
+          {
+            "name": "openpost",
+            "description": "http"
+          }
+        ],
+        "skills": [
+          {
+            "name": "openpost",
+            "description": "Prepare and review posts in an OpenPost workspace, inspect destination readiness and delivery results, and schedule or…"
+          }
+        ]
+      }
+    },
     "pstack": {
       "sha": "1b6d44ff26d4e242f4e8f68c391e6d2f7ca16def",
       "components": {
