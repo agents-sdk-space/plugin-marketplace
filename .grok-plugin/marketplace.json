@@ -407,6 +407,19 @@
       "homepage": "https://cal.com/docs/mcp-server",
       "keywords": ["cal.com", "calcom", "cal.com mcp", "cal.com scheduling", "cal.com booking"],
       "domains": ["cal.com", "app.cal.com", "mcp.cal.com", "api.cal.com"]
+    },
+    {
+      "name": "patricia",
+      "description": "Patricia connects your AI client to one Patricia workspace. Read workspace memory and files, inspect connected integrations, and delegate work to Patricia with human approval controls.",
+      "category": "productivity",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/patricia-app/patricia-plugin.git",
+        "sha": "196da63dc199b1fa944067850e0059d8a1176634"
+      },
+      "homepage": "https://www.patricia.app/mcp",
+      "keywords": ["patricia", "patricia mcp", "patricia memory", "patricia workspace", "patricia delegation", "patricia integrations"],
+      "domains": ["patricia.app", "api.patricia.app"]
     }
   ]
 }
