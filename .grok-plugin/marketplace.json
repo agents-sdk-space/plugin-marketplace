@@ -407,6 +407,19 @@
       "homepage": "https://cal.com/docs/mcp-server",
       "keywords": ["cal.com", "calcom", "cal.com mcp", "cal.com scheduling", "cal.com booking"],
       "domains": ["cal.com", "app.cal.com", "mcp.cal.com", "api.cal.com"]
+    },
+    {
+      "name": "fplai",
+      "description": "FPLai (fplai.app) Fantasy Premier League assistant (hosted MCP server + skills). Review your squad, compare players and read saved gameweek analyses. Sign in with your FPLai account; no API key needed.",
+      "category": "productivity",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/FPLai-app/fplai-grok-plugin.git",
+        "sha": "2d99731aa85f7def1a163cd190fe642c9362cfa4"
+      },
+      "homepage": "https://fplai.app",
+      "keywords": ["fplai", "fplai.app", "fplai fantasy premier league", "fplai fpl assistant"],
+      "domains": ["fplai.app", "www.fplai.app", "mcp.fplai.app"]
     }
   ]
 }
