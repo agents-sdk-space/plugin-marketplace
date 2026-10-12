@@ -1157,6 +1157,17 @@
         ]
       }
     },
+    "tickercode": {
+      "version": "0.4.2",
+      "components": {
+        "mcpServers": [
+          {
+            "name": "tickercode",
+            "description": "http"
+          }
+        ]
+      }
+    },
     "tinyfish": {
       "sha": "89457fba3fa44c7b2227807948628011983ab668",
       "version": "1.0.0",

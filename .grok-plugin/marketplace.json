@@ -407,6 +407,28 @@
       "homepage": "https://cal.com/docs/mcp-server",
       "keywords": ["cal.com", "calcom", "cal.com mcp", "cal.com scheduling", "cal.com booking"],
       "domains": ["cal.com", "app.cal.com", "mcp.cal.com", "api.cal.com"]
+    },
+    {
+      "name": "tickercode",
+      "description": "Japanese stocks, financials, company disclosures and your own watchlists via hosted MCP and OAuth.",
+      "category": "finance",
+      "source": {
+        "type": "local",
+        "path": "./external_plugins/tickercode"
+      },
+      "homepage": "https://ticker-code.com",
+      "keywords": [
+        "tickercode",
+        "Japanese stocks",
+        "disclosures",
+        "financials",
+        "watchlist",
+        "mcp"
+      ],
+      "domains": [
+        "ticker-code.com",
+        "api.ticker-code.com"
+      ]
     }
   ]
 }
