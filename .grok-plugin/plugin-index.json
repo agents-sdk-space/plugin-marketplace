@@ -238,6 +238,24 @@
         ]
       }
     },
+    "cyango": {
+      "sha": "b8799af05a123d25a6b795d375a6bfa15fa25b17",
+      "version": "1.5.17",
+      "components": {
+        "mcpServers": [
+          {
+            "name": "cyango",
+            "description": "stdio"
+          }
+        ],
+        "skills": [
+          {
+            "name": "cyango-mcp",
+            "description": "Cyango MCP: edit a live Cyango story through the batched MCP tools. Use for any Cyango MCP or bridge work, and for stor…"
+          }
+        ]
+      }
+    },
     "datadog": {
       "sha": "083b4783095520f562534956578c8826613292a9",
       "version": "0.7.21",
