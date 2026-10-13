@@ -434,6 +434,24 @@
         ]
       }
     },
+    "koozee": {
+      "sha": "5cbd596870a8e6b221538afd4f4b2ba688eac657",
+      "version": "1.0.0",
+      "components": {
+        "mcpServers": [
+          {
+            "name": "koozee",
+            "description": "http"
+          }
+        ],
+        "skills": [
+          {
+            "name": "koozee-workflows",
+            "description": "Use when the user wants Koozee image, video, text, Canvas, Koozee Skill, workbench, credits, upload, or canvas editing…"
+          }
+        ]
+      }
+    },
     "modern-web-guidance": {
       "sha": "a97286845f2baba38988f9e5fe2b2a1351021e50",
       "version": "0.0.193",

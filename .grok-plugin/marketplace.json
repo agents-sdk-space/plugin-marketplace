@@ -407,6 +407,20 @@
       "homepage": "https://cal.com/docs/mcp-server",
       "keywords": ["cal.com", "calcom", "cal.com mcp", "cal.com scheduling", "cal.com booking"],
       "domains": ["cal.com", "app.cal.com", "mcp.cal.com", "api.cal.com"]
+    },
+    {
+      "name": "koozee",
+      "description": "Create fashion images and videos with AI—all in one place.",
+      "category": "development",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/Koozee-Studio/koozee-grok.git",
+        "sha": "5cbd596870a8e6b221538afd4f4b2ba688eac657"
+      },
+      "homepage": "https://koozee.ai",
+      "keywords": ["koozee", "koozee try-on", "koozee fashion"],
+      "domains": ["koozee.ai"]
     }
   ]
 }
+
