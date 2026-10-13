@@ -407,6 +407,21 @@
       "homepage": "https://cal.com/docs/mcp-server",
       "keywords": ["cal.com", "calcom", "cal.com mcp", "cal.com scheduling", "cal.com booking"],
       "domains": ["cal.com", "app.cal.com", "mcp.cal.com", "api.cal.com"]
+    },
+    {
+      "name": "fork-and-flush",
+      "description": "Explore measurable research and optimization tasks in fresh agent sessions, evaluate isolated candidates, and continue the best verified lineage within a fixed budget.",
+      "category": "development",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/obsidianhq-xyz/fork-and-flush.git",
+        "sha": "f6961fe9e5d1fb1d19f6a82c5bafa0268fe1f48e"
+      },
+      "homepage": "https://github.com/obsidianhq-xyz/fork-and-flush",
+      "keywords": [
+        "fork-and-flush",
+        "obsidianhq fork-and-flush"
+      ]
     }
   ]
 }
