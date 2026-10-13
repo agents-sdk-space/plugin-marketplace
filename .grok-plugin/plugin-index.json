@@ -422,6 +422,23 @@
         ]
       }
     },
+    "gleap": {
+      "version": "1.0.0",
+      "components": {
+        "mcpServers": [
+          {
+            "name": "gleap",
+            "description": "http"
+          }
+        ],
+        "skills": [
+          {
+            "name": "gleap",
+            "description": "Work with a Gleap workspace through the Gleap MCP server. Search and triage support tickets, read and answer customer c…"
+          }
+        ]
+      }
+    },
     "helena": {
       "sha": "9b71516e006144d323f138f1785f55123ec51931",
       "version": "1.0.0",

@@ -407,6 +407,18 @@
       "homepage": "https://cal.com/docs/mcp-server",
       "keywords": ["cal.com", "calcom", "cal.com mcp", "cal.com scheduling", "cal.com booking"],
       "domains": ["cal.com", "app.cal.com", "mcp.cal.com", "api.cal.com"]
+    },
+    {
+      "name": "gleap",
+      "description": "Gleap customer support and feedback integration (hosted MCP server + skill). Search and triage tickets, answer customers, check feature request demand, manage contacts and help center articles, and pull support metrics. Sign in with your Gleap account; no API key needed.",
+      "category": "productivity",
+      "source": {
+        "type": "local",
+        "path": "./external_plugins/gleap"
+      },
+      "homepage": "https://www.gleap.ai/mcp",
+      "keywords": ["gleap", "gleap mcp", "gleap tickets", "gleap inbox", "gleap feature requests"],
+      "domains": ["gleap.io", "gleap.ai", "app.gleap.io", "mcp.gleap.io", "mcp.us.gleap.ai"]
     }
   ]
 }

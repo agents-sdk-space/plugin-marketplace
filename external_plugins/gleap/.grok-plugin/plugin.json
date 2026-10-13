@@ -1,0 +1,14 @@
+{
+  "name": "gleap",
+  "version": "1.0.0",
+  "description": "Gleap customer support and feedback for Grok Build via the hosted Gleap MCP server at mcp.gleap.io. Search and triage tickets, answer customers, check feature request demand, manage contacts and help center articles, and pull support metrics. Sign in with your Gleap account on first connect.",
+  "author": {
+    "name": "Gleap",
+    "url": "https://www.gleap.ai"
+  },
+  "homepage": "https://www.gleap.ai/mcp",
+  "repository": "https://github.com/GleapSDK/agent-skills",
+  "license": "MIT",
+  "keywords": ["gleap", "gleap mcp", "gleap tickets", "gleap inbox", "gleap feature requests"],
+  "logo": "assets/logo.svg"
+}
