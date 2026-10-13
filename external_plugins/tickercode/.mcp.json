@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "tickercode": {
+      "type": "http",
+      "url": "https://api.ticker-code.com/mcp"
+    }
+  }
+}
