@@ -434,6 +434,17 @@
         ]
       }
     },
+    "investor-search": {
+      "sha": "a71b5b5af46a535e3b0f770587b2ba96f9631db6",
+      "components": {
+        "skills": [
+          {
+            "name": "investor-search",
+            "description": "Sourced investor list for any country. Find family offices, VCs, PE firms and angels, with a source for every field and…"
+          }
+        ]
+      }
+    },
     "modern-web-guidance": {
       "sha": "a97286845f2baba38988f9e5fe2b2a1351021e50",
       "version": "0.0.193",
