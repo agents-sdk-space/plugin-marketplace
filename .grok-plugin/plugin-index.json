@@ -659,8 +659,7 @@
       }
     },
     "prismic": {
-      "sha": "05ed2339f1c69e41c00b8a7b077763fa063b5898",
-      "version": "1.0.0",
+      "sha": "f1e5930134adc99f60bf8063e1b97542796b138e",
       "components": {
         "mcpServers": [
           {

@@ -415,7 +415,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/prismicio/skills.git",
-        "sha": "05ed2339f1c69e41c00b8a7b077763fa063b5898"
+        "sha": "f1e5930134adc99f60bf8063e1b97542796b138e"
       },
       "homepage": "https://prismic.io/docs/mcp",
       "keywords": ["prismic", "prismic mcp", "prismic slice"],
