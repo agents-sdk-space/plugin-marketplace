@@ -957,6 +957,18 @@
         ]
       }
     },
+    "siftable": {
+      "sha": "20a00dfecab7751ba0ef68e9fcf1ab5b31a2e325",
+      "version": "1.0.0",
+      "components": {
+        "mcpServers": [
+          {
+            "name": "siftable",
+            "description": "http"
+          }
+        ]
+      }
+    },
     "stripe": {
       "sha": "deae744bc0cbf6034b4b6f22f51c690b71a4e779",
       "version": "0.9.17",
