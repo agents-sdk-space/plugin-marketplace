@@ -958,7 +958,7 @@
       }
     },
     "snapbooks": {
-      "sha": "fd941db20224656258a04110b548136e5b8480c1",
+      "sha": "5187c41b965b87c604d9d0a778b5c1684408e334",
       "version": "1.0.0",
       "components": {
         "mcpServers": [
