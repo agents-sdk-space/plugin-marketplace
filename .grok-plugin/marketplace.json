@@ -407,6 +407,29 @@
       "homepage": "https://cal.com/docs/mcp-server",
       "keywords": ["cal.com", "calcom", "cal.com mcp", "cal.com scheduling", "cal.com booking"],
       "domains": ["cal.com", "app.cal.com", "mcp.cal.com", "api.cal.com"]
+    },
+    {
+      "name": "sharedbrief",
+      "description": "Create private business briefs with 66 focused document skills, publish stable links, control reader access, and inspect approximate engagement.",
+      "category": "productivity",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/lakshman111/sharedbrief-claude-plugin.git",
+        "sha": "7d44c487cda2c34411ca1858f9331cfafc27a864"
+      },
+      "homepage": "https://www.sharedbrief.com",
+      "keywords": [
+        "sharedbrief",
+        "shared brief"
+      ],
+      "domains": [
+        "sharedbrief.com",
+        "www.sharedbrief.com"
+      ],
+      "version": "1.1.0",
+      "author": {
+        "name": "SnuffleLabs LLC"
+      }
     }
   ]
 }
