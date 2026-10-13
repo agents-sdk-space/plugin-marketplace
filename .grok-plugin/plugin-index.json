@@ -435,8 +435,8 @@
       }
     },
     "kemory": {
-      "sha": "9213fd7c2e4ff461f4bb7fa55a4980081f128fe3",
-      "version": "0.14.0",
+      "sha": "fc96d8aa0caed7b766913fc3bbff2b71d7ab3bbb",
+      "version": "0.15.3",
       "components": {
         "commands": [
           {
@@ -452,6 +452,9 @@
           {
             "name": "PostToolUse",
             "description": "(mcp__.*__|[A-Za-z0-9-]+__)kemory_(recall.*|ask|find_similar|get_.*)"
+          },
+          {
+            "name": "PreCompact"
           },
           {
             "name": "SessionEnd"
