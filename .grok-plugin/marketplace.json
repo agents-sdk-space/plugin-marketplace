@@ -407,6 +407,19 @@
       "homepage": "https://cal.com/docs/mcp-server",
       "keywords": ["cal.com", "calcom", "cal.com mcp", "cal.com scheduling", "cal.com booking"],
       "domains": ["cal.com", "app.cal.com", "mcp.cal.com", "api.cal.com"]
+    },
+    {
+      "name": "segmind",
+      "description": "Official Segmind plugin (hosted MCP server + skills). Find, price and run 500+ image, video, audio, 3D and language models, find, build and run Pixelflows (saved multi-model workflows), save the outputs into your project, and write code that calls the Segmind API. Sign in with your Segmind account; no API key needed.",
+      "category": "development",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/segmind/segmind-grok-plugin.git",
+        "sha": "2c12f2b3c4fcef0453c74bfb307ce87f4bad091b"
+      },
+      "homepage": "https://www.segmind.com/mcp",
+      "keywords": ["segmind", "segmind api", "segmind mcp", "segmind pixelflow"],
+      "domains": ["segmind.com", "www.segmind.com", "cloud.segmind.com", "platform.segmind.com", "api.segmind.com", "docs.segmind.com", "mcp.segmind.com"]
     }
   ]
 }
