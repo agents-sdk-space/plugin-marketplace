@@ -407,6 +407,19 @@
       "homepage": "https://cal.com/docs/mcp-server",
       "keywords": ["cal.com", "calcom", "cal.com mcp", "cal.com scheduling", "cal.com booking"],
       "domains": ["cal.com", "app.cal.com", "mcp.cal.com", "api.cal.com"]
+    },
+    {
+      "name": "querysail-ga4",
+      "description": "QuerySail for Google Analytics: read-only GA4 reports, period comparisons, realtime users and custom fields from your own Google Analytics properties, through a hosted MCP server with OAuth sign-in.",
+      "category": "productivity",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/querysail/querysail-ga4.git",
+        "sha": "00c74268ddd0f024389862b3b66fd6c5e3ab568b"
+      },
+      "homepage": "https://querysail.com/google-analytics",
+      "keywords": ["querysail", "querysail ga4", "querysail google analytics"],
+      "domains": ["querysail.com", "mcp.querysail.com"]
     }
   ]
 }

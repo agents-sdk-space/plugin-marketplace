@@ -875,6 +875,24 @@
         ]
       }
     },
+    "querysail-ga4": {
+      "sha": "00c74268ddd0f024389862b3b66fd6c5e3ab568b",
+      "version": "1.0.0",
+      "components": {
+        "mcpServers": [
+          {
+            "name": "querysail-ga4",
+            "description": "http"
+          }
+        ],
+        "skills": [
+          {
+            "name": "google-analytics-analysis",
+            "description": "Answer questions about a site's or app's Google Analytics 4 traffic, engagement, conversions and revenue with the Query…"
+          }
+        ]
+      }
+    },
     "quo": {
       "sha": "04abd6ef9cd98ffba2105bb7437c13623c26a675",
       "version": "1.0.0",
