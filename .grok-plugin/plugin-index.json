@@ -957,6 +957,220 @@
         ]
       }
     },
+    "sharedbrief": {
+      "sha": "7d44c487cda2c34411ca1858f9331cfafc27a864",
+      "version": "1.1.0",
+      "components": {
+        "mcpServers": [
+          {
+            "name": "sharedbrief",
+            "description": "http"
+          }
+        ],
+        "skills": [
+          {
+            "name": "agency-campaign-recap",
+            "description": "Use when the user asks SharedBrief to review a completed marketing campaign in the agency context."
+          },
+          {
+            "name": "agency-client-pitch",
+            "description": "Use when the user asks SharedBrief to present an agency approach to a potential client in the agency context."
+          },
+          {
+            "name": "agency-creative-brief",
+            "description": "Use when the user asks SharedBrief to define direction for creative production in the agency context."
+          },
+          {
+            "name": "agency-performance-report",
+            "description": "Use when the user asks SharedBrief to explain client marketing results and implications in the agency context."
+          },
+          {
+            "name": "agency-proposal",
+            "description": "Use when the user asks SharedBrief to prepare an agency engagement proposal in the agency context."
+          },
+          {
+            "name": "agency-strategy-deck",
+            "description": "Use when the user asks SharedBrief to outline an agency strategy presentation in the agency context."
+          },
+          {
+            "name": "consultant-account-growth-plan",
+            "description": "Use when the user asks SharedBrief to plan expansion within an existing client relationship in the consultant context."
+          },
+          {
+            "name": "consultant-audit-report",
+            "description": "Use when the user asks SharedBrief to document an evidence-backed assessment for a client in the consultant context."
+          },
+          {
+            "name": "consultant-client-proposal",
+            "description": "Use when the user asks SharedBrief to define a consulting engagement for review in the consultant context."
+          },
+          {
+            "name": "consultant-client-report",
+            "description": "Use when the user asks SharedBrief to summarize consulting delivery and outcomes in the consultant context."
+          },
+          {
+            "name": "consultant-strategy-brief",
+            "description": "Use when the user asks SharedBrief to present a consultant recommendation and its rationale in the consultant context."
+          },
+          {
+            "name": "consultant-workshop-recap",
+            "description": "Use when the user asks SharedBrief to turn workshop notes into a usable decision record in the consultant context."
+          },
+          {
+            "name": "creator-course-page",
+            "description": "Use when the user asks SharedBrief to describe an educational offer for prospective learners in the creator context."
+          },
+          {
+            "name": "creator-flipbook-page",
+            "description": "Use when the user asks SharedBrief for a flipbook-style static reading document or a page-by-page presentation of selec…"
+          },
+          {
+            "name": "creator-instagram-freebie-builder",
+            "description": "Use when the user asks SharedBrief to plan an Instagram-distributed downloadable or shareable resource in the creator c…"
+          },
+          {
+            "name": "creator-launch-page",
+            "description": "Use when the user asks SharedBrief to announce a creator\\u2019s new offer in the creator context."
+          },
+          {
+            "name": "creator-lead-magnet",
+            "description": "Use when the user asks SharedBrief to create a useful audience resource tied to an offer in the creator context."
+          },
+          {
+            "name": "creator-media-kit",
+            "description": "Use when the user asks SharedBrief to present a creator\\u2019s verified audience and collaboration options in the creat…"
+          },
+          {
+            "name": "creator-portfolio-page",
+            "description": "Use when the user asks SharedBrief to curate professional work for a particular audience in the creator context."
+          },
+          {
+            "name": "creator-sponsor-pitch",
+            "description": "Use when the user asks SharedBrief to prepare a sponsorship proposal for a named brand in the creator context."
+          },
+          {
+            "name": "document-design",
+            "description": "Use when the user wants a SharedBrief document styled or its visual hierarchy improved."
+          },
+          {
+            "name": "engagement-review",
+            "description": "Use when the user wants to review SharedBrief readership statistics or prepare a sales follow-up based on a brief's eng…"
+          },
+          {
+            "name": "founder-customer-pitch",
+            "description": "Use when the user asks SharedBrief to explain a product to a specific prospective customer in the founder context."
+          },
+          {
+            "name": "founder-fundraising-deck",
+            "description": "Use when the user asks SharedBrief for a fundraising deck, investor presentation outline, or slide-by-slide company sto…"
+          },
+          {
+            "name": "founder-hiring-page",
+            "description": "Use when the user asks SharedBrief to describe a role and team for prospective applicants in the founder context."
+          },
+          {
+            "name": "founder-investor-memo",
+            "description": "Use when the user asks SharedBrief to prepare a factual company briefing for investor review in the founder context."
+          },
+          {
+            "name": "founder-launch-page",
+            "description": "Use when the user asks SharedBrief to announce a founder-led product release in the founder context."
+          },
+          {
+            "name": "founder-product-brief",
+            "description": "Use when the user asks SharedBrief to define a product and the decision behind it in the founder context."
+          },
+          {
+            "name": "founder-product-demo-page",
+            "description": "Use when the user asks SharedBrief to prepare a guided product demonstration document in the founder context."
+          },
+          {
+            "name": "founder-strategy-workbook",
+            "description": "Use when the user asks SharedBrief to create a structured founder decision exercise in the founder context."
+          },
+          {
+            "name": "other-brief",
+            "description": "Use when the user asks SharedBrief to prepare a compact decision-oriented document when no more specific domain workflo…"
+          },
+          {
+            "name": "other-business-proposal",
+            "description": "Use when the user asks SharedBrief to explain a business arrangement for consideration when no more specific domain wor…"
+          },
+          {
+            "name": "other-event-field-guide",
+            "description": "Use when the user asks SharedBrief to curate a practical event-selection guide when no more specific domain workflow ap…"
+          },
+          {
+            "name": "other-event-invitation",
+            "description": "Use when the user asks SharedBrief to prepare an invitation document for a defined audience when no more specific domai…"
+          },
+          {
+            "name": "other-event-landing-page",
+            "description": "Use when the user asks SharedBrief to describe an event and how to participate when no more specific domain workflow ap…"
+          },
+          {
+            "name": "other-landing-page",
+            "description": "Use when the user asks SharedBrief to present one clearly defined offer in a shareable page when no more specific domai…"
+          },
+          {
+            "name": "other-one-pager",
+            "description": "Use when the user asks SharedBrief to condense a topic into a focused one-page-style brief when no more specific domain…"
+          },
+          {
+            "name": "other-report",
+            "description": "Use when the user asks SharedBrief to organize evidence and analysis for readers when no more specific domain workflow…"
+          },
+          {
+            "name": "other-service-page",
+            "description": "Use when the user asks SharedBrief to explain a professional service and how to enquire when no more specific domain wo…"
+          },
+          {
+            "name": "other-shareable-doc",
+            "description": "Use when the user asks SharedBrief to prepare selected content as a readable hosted document when no more specific doma…"
+          },
+          {
+            "name": "other-team-playbook",
+            "description": "Use when the user asks SharedBrief to document a team\\u2019s operating practices when no more specific domain workflow…"
+          },
+          {
+            "name": "plain-language-editing",
+            "description": "Use when the user wants a SharedBrief document rewritten to sound natural, clear, specific, and appropriate to its audi…"
+          },
+          {
+            "name": "real-estate-buyer-guide",
+            "description": "Use when the user asks SharedBrief to help a property buyer organize a comparison in the real estate context."
+          },
+          {
+            "name": "real-estate-market-report",
+            "description": "Use when the user asks SharedBrief to summarize supplied local property-market evidence in the real estate context."
+          },
+          {
+            "name": "real-estate-neighborhood-page",
+            "description": "Use when the user asks SharedBrief to present factual local information for property research in the real estate contex…"
+          },
+          {
+            "name": "real-estate-open-house-page",
+            "description": "Use when the user asks SharedBrief to prepare an informational property-event page in the real estate context."
+          },
+          {
+            "name": "real-estate-property-listing",
+            "description": "Use when the user asks SharedBrief to describe a property using authorized facts and assets in the real estate context."
+          },
+          {
+            "name": "real-estate-seller-pitch",
+            "description": "Use when the user asks SharedBrief to present an agent\\u2019s proposed selling approach in the real estate context."
+          },
+          {
+            "name": "recruiting-candidate-profile",
+            "description": "Use when the user asks SharedBrief to summarize supplied professional candidate information for a hiring team in the re…"
+          },
+          {
+            "name": "recruiting-hiring-packet",
+            "description": "Use when the user asks SharedBrief to organize materials for a hiring loop in the recruiting context."
+          }
+        ]
+      }
+    },
     "stripe": {
       "sha": "15e3db59ba17ff4ff08d787333ea803b47f38674",
       "version": "0.9.16",
