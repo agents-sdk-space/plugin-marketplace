@@ -407,6 +407,25 @@
       "homepage": "https://cal.com/docs/mcp-server",
       "keywords": ["cal.com", "calcom", "cal.com mcp", "cal.com scheduling", "cal.com booking"],
       "domains": ["cal.com", "app.cal.com", "mcp.cal.com", "api.cal.com"]
+    },
+    {
+      "name": "vstok-recommendations",
+      "description": "Review verified VStok recommendations, acceptance criteria and execution status through an authorized OAuth MCP connection. This Grok workflow is read-only; execution is supported in Codex, Cursor and Claude.",
+      "category": "developer-tools",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/novolgit/vstok-agent-plugins.git",
+        "sha": "60f7db4ee8eb95acf4a3b9aa1d4976a9fbce2094",
+        "path": "plugins/vstok-recommendations"
+      },
+      "homepage": "https://vstok.net/docs/agent-execution",
+      "keywords": [
+        "vstok",
+        "vstok recommendations"
+      ],
+      "domains": [
+        "vstok.net"
+      ]
     }
   ]
 }
