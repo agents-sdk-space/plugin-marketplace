@@ -875,6 +875,24 @@
         ]
       }
     },
+    "querysail-gsc": {
+      "sha": "add01c8459bc115d4549e0d493dd92bd33a49ff0",
+      "version": "1.0.1",
+      "components": {
+        "mcpServers": [
+          {
+            "name": "querysail-gsc",
+            "description": "http"
+          }
+        ],
+        "skills": [
+          {
+            "name": "search-console-analysis",
+            "description": "Answer questions about a site's Google Search traffic, rankings, indexing and sitemaps with the QuerySail Google Search…"
+          }
+        ]
+      }
+    },
     "quo": {
       "sha": "04abd6ef9cd98ffba2105bb7437c13623c26a675",
       "version": "1.0.0",

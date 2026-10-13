@@ -407,6 +407,19 @@
       "homepage": "https://cal.com/docs/mcp-server",
       "keywords": ["cal.com", "calcom", "cal.com mcp", "cal.com scheduling", "cal.com booking"],
       "domains": ["cal.com", "app.cal.com", "mcp.cal.com", "api.cal.com"]
+    },
+    {
+      "name": "querysail-gsc",
+      "description": "QuerySail for Google Search Console: read-only search performance, period comparisons, URL inspection and sitemaps from your own Search Console properties, through a hosted MCP server with OAuth sign-in.",
+      "category": "productivity",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/querysail/querysail-gsc.git",
+        "sha": "add01c8459bc115d4549e0d493dd92bd33a49ff0"
+      },
+      "homepage": "https://querysail.com/google-search-console",
+      "keywords": ["querysail", "querysail gsc", "querysail search console"],
+      "domains": ["querysail.com", "mcp.querysail.com"]
     }
   ]
 }
