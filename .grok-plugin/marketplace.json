@@ -415,7 +415,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/yonro/xmemo-grok-plugin.git",
-        "sha": "06c49814e947cca624190523a9461021627c9a5e"
+        "sha": "0911b308965f310ad95da850de9d5571556b09c0"
       },
       "homepage": "https://xmemo.dev/product/mcp",
       "keywords": ["xmemo", "xmemo memory", "xmemo mcp", "xmemo project continuity", "xmemo handoff"],
