@@ -97,6 +97,52 @@
         ]
       }
     },
+    "bulkpublish": {
+      "sha": "c18f0b6cb5985df7ac2159b59ac832d6de0e9009",
+      "version": "1.11.0",
+      "components": {
+        "mcpServers": [
+          {
+            "name": "bulkpublish",
+            "description": "stdio"
+          }
+        ],
+        "skills": [
+          {
+            "name": "bulk-publish",
+            "description": "Upload media files (local or URL), manage media library, and batch-create posts via BulkPublish. Use when the user want…"
+          },
+          {
+            "name": "check-quota",
+            "description": "Check BulkPublish plan limits and current usage. Use when the user asks about their plan, limits, or remaining quota."
+          },
+          {
+            "name": "get-analytics",
+            "description": "Pull analytics, engagement metrics, and performance data from BulkPublish. Use when the user asks about post performanc…"
+          },
+          {
+            "name": "manage-channels",
+            "description": "List connected social media channels and check their health via BulkPublish. Use when the user asks about their connect…"
+          },
+          {
+            "name": "manage-inbox",
+            "description": "Read, triage and answer BulkPublish Inbox conversations (DMs, reviews, comment threads) and comments on published posts…"
+          },
+          {
+            "name": "platform-reference",
+            "description": "Complete reference for the 15 BulkPublish platforms (plus Reddit, currently switched off) — post types, media requireme…"
+          },
+          {
+            "name": "schedule-post",
+            "description": "Create, schedule, or publish social media posts via BulkPublish MCP. Use when the user wants to post to social media."
+          },
+          {
+            "name": "using-bulkpublish",
+            "description": "Schedule, publish and analyse social media posts across 15 networks through BulkPublish. Use whenever the user wants to…"
+          }
+        ]
+      }
+    },
     "calcom": {
       "version": "1.0.0",
       "components": {
