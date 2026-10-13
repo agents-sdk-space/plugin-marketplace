@@ -407,6 +407,19 @@
       "homepage": "https://cal.com/docs/mcp-server",
       "keywords": ["cal.com", "calcom", "cal.com mcp", "cal.com scheduling", "cal.com booking"],
       "domains": ["cal.com", "app.cal.com", "mcp.cal.com", "api.cal.com"]
+    },
+    {
+      "name": "spritecook",
+      "description": "Generate animated pixel art sprites in Grok Build",
+      "category": "development",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/SpriteCook/grok-plugin.git",
+        "sha": "bfefb5db16c225a6cd9536db911e6010c1f2b75e"
+      },
+      "homepage": "https://spritecook.ai",
+      "keywords": ["spritecook", "spritecook sprites", "spritecook pixel art", "spritecook tileset", "spritecook animation"],
+      "domains": ["spritecook.ai", "app.spritecook.ai"]
     }
   ]
 }
