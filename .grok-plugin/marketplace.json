@@ -407,6 +407,19 @@
       "homepage": "https://cal.com/docs/mcp-server",
       "keywords": ["cal.com", "calcom", "cal.com mcp", "cal.com scheduling", "cal.com booking"],
       "domains": ["cal.com", "app.cal.com", "mcp.cal.com", "api.cal.com"]
+    },
+    {
+      "name": "aveiro",
+      "description": "Aveiro publishing integration (hosted MCP server + skill). Write, update and publish pages on hosted Aveiro sites, organise collections, add page screenshots and images, draft social posts and newsletter campaigns, and read their performance. Sign in with your Aveiro account; no API key needed.",
+      "category": "productivity",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/once-ui-system/aveiro-grok-plugin.git",
+        "sha": "c310f3665f8f01862d76457fa9ae11add0b4e8a0"
+      },
+      "homepage": "https://aveiro.app/developers/mcp",
+      "keywords": ["aveiro", "aveiro.app", "aveiro mcp", "aveiro site", "aveiro page", "aveiro newsletter"],
+      "domains": ["aveiro.app", "www.aveiro.app", "aveiro.page"]
     }
   ]
 }
