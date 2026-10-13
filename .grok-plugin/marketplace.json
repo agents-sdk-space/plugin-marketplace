@@ -407,6 +407,19 @@
       "homepage": "https://cal.com/docs/mcp-server",
       "keywords": ["cal.com", "calcom", "cal.com mcp", "cal.com scheduling", "cal.com booking"],
       "domains": ["cal.com", "app.cal.com", "mcp.cal.com", "api.cal.com"]
+    },
+    {
+      "name": "promptbase",
+      "description": "PromptBase's official plugin (hosted MCP server + skill). Search and use 300,000+ AI prompts and skills for images, game assets, video, writing, apps and websites, open prompts you own and fill in their variables. Sign in with your PromptBase account; no API key needed.",
+      "category": "productivity",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/promptbasedev/cursor-plugin.git",
+        "sha": "180f1826356a033749118346dac6ca43424caa41"
+      },
+      "homepage": "https://promptbase.com/agents",
+      "keywords": ["promptbase", "promptbase prompts", "promptbase skills", "promptbase mcp"],
+      "domains": ["promptbase.com"]
     }
   ]
 }
