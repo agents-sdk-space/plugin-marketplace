@@ -658,6 +658,24 @@
         ]
       }
     },
+    "pinto-notes": {
+      "sha": "2ee0b9d68e5e7b72a3081b520282fabd7f20a0a1",
+      "version": "1.0.0",
+      "components": {
+        "mcpServers": [
+          {
+            "name": "pinto-notes",
+            "description": "http"
+          }
+        ],
+        "skills": [
+          {
+            "name": "pinto-notes",
+            "description": "Use the person's notes in Pinto Notes (pintonotes.com) through the pinto-notes MCP server. Use when they mention their…"
+          }
+        ]
+      }
+    },
     "pstack": {
       "sha": "1b6d44ff26d4e242f4e8f68c391e6d2f7ca16def",
       "components": {
