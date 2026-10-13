@@ -405,7 +405,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/socialbu/socialbu-agent.git",
-        "sha": "8f1f3eb093afa9b5ee0f9f4b0f40ae468b7077c3"
+        "sha": "4ead3086ec1b7c76fab1f1bf7efceae36dcf3a9e"
       },
       "homepage": "https://socialbu.com/mcp-server",
       "keywords": ["socialbu", "socialbu mcp", "socialbu scheduling"],
