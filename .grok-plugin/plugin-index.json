@@ -434,6 +434,18 @@
         ]
       }
     },
+    "insitu-sales": {
+      "sha": "ace9b7630e4d2de8ee1aff6c8573ab85774a4e86",
+      "version": "1.0.4",
+      "components": {
+        "mcpServers": [
+          {
+            "name": "insitu_sales",
+            "description": "http"
+          }
+        ]
+      }
+    },
     "modern-web-guidance": {
       "sha": "b31dc0a43ff5d19bcf386a3476a216f3b39a6f55",
       "version": "0.0.194",
