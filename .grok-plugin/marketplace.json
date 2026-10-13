@@ -407,6 +407,19 @@
       "homepage": "https://cal.com/docs/mcp-server",
       "keywords": ["cal.com", "calcom", "cal.com mcp", "cal.com scheduling", "cal.com booking"],
       "domains": ["cal.com", "app.cal.com", "mcp.cal.com", "api.cal.com"]
+    },
+    {
+      "name": "unitpost",
+      "description": "Your AI Agent sends the messages. Official Unitpost plugin (hosted MCP server + skill): email and SMS infrastructure, run by your agent. Send transactional email and SMS, run campaigns, and manage contacts, templates, domains, and webhooks in your Unitpost workspace. Sign in with your Unitpost account (OAuth 2.1); no API key needed.",
+      "category": "development",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/unitpostcom/unitpost-grok-plugin.git",
+        "sha": "dd317814880688b7115969d75abe575ed332684e"
+      },
+      "homepage": "https://www.unitpost.com/ai/mcp",
+      "keywords": ["unitpost", "unitpost mcp", "unitpost email", "unitpost sms"],
+      "domains": ["unitpost.com", "www.unitpost.com", "mcp.unitpost.com"]
     }
   ]
 }
