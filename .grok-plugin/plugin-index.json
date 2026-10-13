@@ -67,6 +67,18 @@
         ]
       }
     },
+    "botspot": {
+      "sha": "a15962339cf94f903c51d9c352c1ed52ebef5915",
+      "version": "1.0.0",
+      "components": {
+        "mcpServers": [
+          {
+            "name": "botspot",
+            "description": "http"
+          }
+        ]
+      }
+    },
     "browser-use": {
       "sha": "4749bcbfe456e5384b98281a8a66119352197f59",
       "version": "0.1.0",

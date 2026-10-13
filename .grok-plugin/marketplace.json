@@ -407,6 +407,19 @@
       "homepage": "https://cal.com/docs/mcp-server",
       "keywords": ["cal.com", "calcom", "cal.com mcp", "cal.com scheduling", "cal.com booking"],
       "domains": ["cal.com", "app.cal.com", "mcp.cal.com", "api.cal.com"]
+    },
+    {
+      "name": "botspot",
+      "description": "Official BotSpot hosted MCP integration. Create and edit LumiBot strategies, run historical backtests, analyze results, and monitor your own bots. OAuth sign-in and a paid BotSpot plan are required.",
+      "category": "finance",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/Lumiwealth/botspot-mcp.git",
+        "sha": "a15962339cf94f903c51d9c352c1ed52ebef5915"
+      },
+      "homepage": "https://botspot.trade/agents",
+      "keywords": ["botspot", "lumibot", "lumiwealth"],
+      "domains": ["botspot.trade"]
     }
   ]
 }
