@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "optimal-beam": {
+      "type": "http",
+      "url": "https://mcp.optimalbeam.com/grok/mcp"
+    }
+  }
+}

@@ -658,6 +658,17 @@
         ]
       }
     },
+    "optimal-beam": {
+      "version": "1.0.0",
+      "components": {
+        "mcpServers": [
+          {
+            "name": "optimal-beam",
+            "description": "http"
+          }
+        ]
+      }
+    },
     "pstack": {
       "sha": "1dcc2bacde73ddd284803b7af28164d0436198fc",
       "components": {
