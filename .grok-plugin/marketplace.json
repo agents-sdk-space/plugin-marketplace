@@ -407,6 +407,19 @@
       "homepage": "https://cal.com/docs/mcp-server",
       "keywords": ["cal.com", "calcom", "cal.com mcp", "cal.com scheduling", "cal.com booking"],
       "domains": ["cal.com", "app.cal.com", "mcp.cal.com", "api.cal.com"]
+    },
+    {
+      "name": "investor-search",
+      "description": "Investor research skill by BCP partners GmbH. Build a sourced list of the investors in a market - family offices, VCs, PE firms and angels - where every firm carries the page it came from, and the report says honestly how complete the list is.",
+      "category": "productivity",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/verun-ai/investor-search.git",
+        "sha": "a71b5b5af46a535e3b0f770587b2ba96f9631db6"
+      },
+      "homepage": "https://github.com/verun-ai/investor-search",
+      "keywords": ["investor-search", "verun investor search", "bcpp investor search"],
+      "domains": ["bcpp.io"]
     }
   ]
 }
