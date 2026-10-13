@@ -407,6 +407,19 @@
       "homepage": "https://cal.com/docs/mcp-server",
       "keywords": ["cal.com", "calcom", "cal.com mcp", "cal.com scheduling", "cal.com booking"],
       "domains": ["cal.com", "app.cal.com", "mcp.cal.com", "api.cal.com"]
+    },
+    {
+      "name": "xmemo",
+      "description": "User-owned persistent memory and project continuity for Grok Build. Recall authorized decisions and context, preserve verified checkpoints, and prepare evidence-backed handoffs across sessions and agents through XMemo's hosted MCP server.",
+      "category": "productivity",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/yonro/xmemo-grok-plugin.git",
+        "sha": "06c49814e947cca624190523a9461021627c9a5e"
+      },
+      "homepage": "https://xmemo.dev/product/mcp",
+      "keywords": ["xmemo", "xmemo memory", "xmemo mcp", "xmemo project continuity", "xmemo handoff"],
+      "domains": ["xmemo.dev", "www.xmemo.dev"]
     }
   ]
 }
