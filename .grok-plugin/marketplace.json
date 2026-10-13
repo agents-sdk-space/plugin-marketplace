@@ -180,7 +180,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/figma/mcp-server-guide.git",
-        "sha": "f0493295acf5f7cbdebcbcc483c06de814420cb1"
+        "sha": "b0bfad2ae63dfdc1af201c5542b5c8cf93778b33"
       },
       "homepage": "https://github.com/figma/mcp-server-guide",
       "keywords": ["figma", "figma mcp"],
@@ -246,7 +246,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/stripe/ai.git",
-        "sha": "15e3db59ba17ff4ff08d787333ea803b47f38674",
+        "sha": "deae744bc0cbf6034b4b6f22f51c690b71a4e779",
         "path": "providers/grok/plugin"
       },
       "homepage": "https://github.com/stripe/ai",
@@ -260,7 +260,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/tinyfish-io/tinyfish-web-agent-integrations.git",
-        "sha": "df5734f8ff3affa362c29ed3e1980add8b4d1372",
+        "sha": "dca9193afeb4185da3caac9324fa33be17d0deac",
         "path": "grok"
       },
       "homepage": "https://www.tinyfish.ai",
@@ -287,7 +287,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/cursor/plugins.git",
-        "sha": "1b6d44ff26d4e242f4e8f68c391e6d2f7ca16def",
+        "sha": "1dcc2bacde73ddd284803b7af28164d0436198fc",
         "path": "pstack"
       },
       "homepage": "https://github.com/cursor/plugins/tree/main/pstack",
@@ -365,7 +365,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/GoogleChrome/modern-web-guidance.git",
-        "sha": "a97286845f2baba38988f9e5fe2b2a1351021e50"
+        "sha": "b31dc0a43ff5d19bcf386a3476a216f3b39a6f55"
       },
       "homepage": "https://github.com/GoogleChrome/modern-web-guidance",
       "keywords": ["modern web", "web best practices", "web guidance"]
