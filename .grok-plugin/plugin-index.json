@@ -434,6 +434,24 @@
         ]
       }
     },
+    "jetpost": {
+      "sha": "03fd8ae9317210d4326d0268737b1d0da388f170",
+      "version": "1.0.0",
+      "components": {
+        "mcpServers": [
+          {
+            "name": "jetpost",
+            "description": "http"
+          }
+        ],
+        "skills": [
+          {
+            "name": "jetpost-share-for-feedback",
+            "description": "Suggest who to share a Jetpost note with for feedback, then share it. Use once the user has written a Jetpost note and…"
+          }
+        ]
+      }
+    },
     "modern-web-guidance": {
       "sha": "b31dc0a43ff5d19bcf386a3476a216f3b39a6f55",
       "version": "0.0.194",
