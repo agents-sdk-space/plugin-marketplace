@@ -407,6 +407,19 @@
       "homepage": "https://cal.com/docs/mcp-server",
       "keywords": ["cal.com", "calcom", "cal.com mcp", "cal.com scheduling", "cal.com booking"],
       "domains": ["cal.com", "app.cal.com", "mcp.cal.com", "api.cal.com"]
+    },
+    {
+      "name": "seomatic",
+      "description": "SEOmatic SEO integration (hosted MCP server + skills). Answer from your real Google Search Console data, find pages close to page 1, diagnose traffic drops, run site audits, check AI visibility, and on paid plans stage SEO fixes that go live in your CMS only after you approve them.",
+      "category": "monitoring",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/Minh42/seomatic-mcp.git",
+        "sha": "59b517e5f30c03dcb1ff2e1efbc7d5113f155ae9"
+      },
+      "homepage": "https://seomatic.ai/ai-assistants/grok-build",
+      "keywords": ["seomatic", "seo", "seo audit", "google search console", "search console mcp", "ai visibility"],
+      "domains": ["seomatic.ai", "app.seomatic.ai"]
     }
   ]
 }

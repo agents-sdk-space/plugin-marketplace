@@ -957,6 +957,48 @@
         ]
       }
     },
+    "seomatic": {
+      "sha": "59b517e5f30c03dcb1ff2e1efbc7d5113f155ae9",
+      "version": "1.1.0",
+      "components": {
+        "mcpServers": [
+          {
+            "name": "seomatic",
+            "description": "http"
+          }
+        ],
+        "skills": [
+          {
+            "name": "seomatic",
+            "description": "SEO agent for the user's own website through the SEOmatic CLI. Answers Google Search Console questions (top queries, to…"
+          },
+          {
+            "name": "seomatic-ai-citations",
+            "description": "Find out whether AI answers actually cite this site, using first-party evidence - real logged-in AI answers captured by…"
+          },
+          {
+            "name": "seomatic-ai-visibility-review",
+            "description": "Review how the connected brand shows up inside AI answers (ChatGPT, Claude, Perplexity, Gemini, Grok, AI Overviews) usi…"
+          },
+          {
+            "name": "seomatic-approval-workflow",
+            "description": "Operate SEOmatic's human-gated execution loop from chat - inspect staged proposals with full evidence, record the user'…"
+          },
+          {
+            "name": "seomatic-seo-audit",
+            "description": "Run a complete, zero-cost SEO audit of the connected site through the SEOmatic connector - real Search Console data, te…"
+          },
+          {
+            "name": "seomatic-striking-distance",
+            "description": "Find the connected site's striking-distance queries (page-2 rankings, positions 11-20, where one edit reaches page 1) f…"
+          },
+          {
+            "name": "seomatic-weekly-brief",
+            "description": "Write a short weekly SEO brief for the connected site from real Search Console data - what changed in the last 7 days,…"
+          }
+        ]
+      }
+    },
     "stripe": {
       "sha": "deae744bc0cbf6034b4b6f22f51c690b71a4e779",
       "version": "0.9.17",
