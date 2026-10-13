@@ -407,6 +407,27 @@
       "homepage": "https://cal.com/docs/mcp-server",
       "keywords": ["cal.com", "calcom", "cal.com mcp", "cal.com scheduling", "cal.com booking"],
       "domains": ["cal.com", "app.cal.com", "mcp.cal.com", "api.cal.com"]
+    },
+    {
+      "name": "perilscore",
+      "description": "PerilScore US property catastrophe-risk scoring, fire-protection context, and authenticated underwriting reports via hosted MCP.",
+      "category": "productivity",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/PerilScore/perilscore-agent-plugin.git",
+        "sha": "91c200c8cf7851161731e7a7081240a9878892e3"
+      },
+      "homepage": "https://perilscore.com",
+      "keywords": [
+        "perilscore",
+        "perilscore property risk",
+        "perilscore underwriting",
+        "perilscore mcp"
+      ],
+      "domains": [
+        "perilscore.com",
+        "app.perilscore.com"
+      ]
     }
   ]
 }
