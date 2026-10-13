@@ -407,6 +407,19 @@
       "homepage": "https://cal.com/docs/mcp-server",
       "keywords": ["cal.com", "calcom", "cal.com mcp", "cal.com scheduling", "cal.com booking"],
       "domains": ["cal.com", "app.cal.com", "mcp.cal.com", "api.cal.com"]
+    },
+    {
+      "name": "dreamstate",
+      "description": "Dreamstate sales and marketing workspace (hosted MCP server + skills). Build workbooks of companies and people with enrichment and scoring, run LinkedIn and email sequences, answer replies, post to LinkedIn and X, and manage CRM records. Sign in with your Dreamstate account; no API key needed.",
+      "category": "productivity",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/luisfigueroavale/dreamstate-plugins.git",
+        "sha": "b814524ce3f216f334ca1e049cbb5fd9e0b0a339"
+      },
+      "homepage": "https://trydreamstate.com",
+      "keywords": ["dreamstate", "dreamstate mcp", "dreamstate workbook", "dreamstate sequence"],
+      "domains": ["trydreamstate.com", "mcp.trydreamstate.com"]
     }
   ]
 }
