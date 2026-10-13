@@ -407,6 +407,25 @@
       "homepage": "https://cal.com/docs/mcp-server",
       "keywords": ["cal.com", "calcom", "cal.com mcp", "cal.com scheduling", "cal.com booking"],
       "domains": ["cal.com", "app.cal.com", "mcp.cal.com", "api.cal.com"]
+    },
+    {
+      "name": "eryx",
+      "description": "Connect Grok Build to an authorized Eryx B2B lead-discovery workspace. Inspect projects, ranked leads, discovery runs, usage, and remaining credits through a hosted MCP server with OAuth.",
+      "category": "sales",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/novolgit/eryx-mcp-plugin.git",
+        "sha": "2ae004e672040876bfbe23f22d6e94877f34e8e8"
+      },
+      "homepage": "https://eryx.digital",
+      "keywords": [
+        "eryx",
+        "eryx b2b leads",
+        "eryx lead discovery"
+      ],
+      "domains": [
+        "eryx.digital"
+      ]
     }
   ]
 }
