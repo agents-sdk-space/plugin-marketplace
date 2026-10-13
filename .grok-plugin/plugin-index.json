@@ -435,8 +435,8 @@
       }
     },
     "kemory": {
-      "sha": "846963f81f55b629ce258e406b1b202a9640db40",
-      "version": "0.13.3",
+      "sha": "9213fd7c2e4ff461f4bb7fa55a4980081f128fe3",
+      "version": "0.14.0",
       "components": {
         "commands": [
           {

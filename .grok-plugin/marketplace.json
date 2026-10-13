@@ -403,7 +403,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/SeKondBrainAILabs/kemory-plugin.git",
-        "sha": "846963f81f55b629ce258e406b1b202a9640db40",
+        "sha": "9213fd7c2e4ff461f4bb7fa55a4980081f128fe3",
         "path": "plugin"
       },
       "homepage": "https://get.kemory.sekondbrain.ai/",
