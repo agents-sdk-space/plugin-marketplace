@@ -958,8 +958,8 @@
       }
     },
     "string-web-access": {
-      "sha": "76f7972f78404c589b45fff764c7d6affc2b2219",
-      "version": "1.0.6",
+      "sha": "0b53f04bdc189deda9b5a08d756c0f1026c8624e",
+      "version": "1.0.11",
       "components": {
         "commands": [
           {
