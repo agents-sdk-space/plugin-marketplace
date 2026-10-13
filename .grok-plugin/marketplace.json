@@ -407,6 +407,18 @@
       "homepage": "https://cal.com/docs/mcp-server",
       "keywords": ["cal.com", "calcom", "cal.com mcp", "cal.com scheduling", "cal.com booking"],
       "domains": ["cal.com", "app.cal.com", "mcp.cal.com", "api.cal.com"]
+    },
+    {
+      "name": "gm-labs-data",
+      "description": "GM Labs Data: US government filings (TTB alcohol permits, UCC-1 liens, DOT bid results), ATS job listings (Greenhouse, Lever, Ashby) and full-page screenshots from GM Labs' pay-per-result Apify Actors via Apify's hosted MCP. Bring your own APIFY_TOKEN.",
+      "category": "data",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/GM-Data-Labs/gm-labs-data-plugin.git",
+        "sha": "0d4888cbffe97a7d9363c77fef5f59bcb1a7b511"
+      },
+      "homepage": "https://github.com/GM-Data-Labs/gm-labs-data-plugin",
+      "keywords": ["gm labs data", "gm labs apify"]
     }
   ]
 }
