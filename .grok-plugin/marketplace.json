@@ -407,6 +407,19 @@
       "homepage": "https://cal.com/docs/mcp-server",
       "keywords": ["cal.com", "calcom", "cal.com mcp", "cal.com scheduling", "cal.com booking"],
       "domains": ["cal.com", "app.cal.com", "mcp.cal.com", "api.cal.com"]
+    },
+    {
+      "name": "jetpost",
+      "description": "Notes your team and their agents build on together. Tell your agent \"make a note\" and share it; teammates and their agents can read, comment and edit.",
+      "category": "productivity",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/send-co/jetpost-plugin.git",
+        "sha": "03fd8ae9317210d4326d0268737b1d0da388f170"
+      },
+      "homepage": "https://www.jetpost.com/welcome",
+      "keywords": ["jetpost", "jetpost note", "team notes", "shared notes", "agent handoff"],
+      "domains": ["jetpost.com", "www.jetpost.com"]
     }
   ]
 }
