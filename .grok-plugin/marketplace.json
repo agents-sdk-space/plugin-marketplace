@@ -407,6 +407,19 @@
       "homepage": "https://cal.com/docs/mcp-server",
       "keywords": ["cal.com", "calcom", "cal.com mcp", "cal.com scheduling", "cal.com booking"],
       "domains": ["cal.com", "app.cal.com", "mcp.cal.com", "api.cal.com"]
+    },
+    {
+      "name": "bool",
+      "description": "Make your own apps and tools with Bool. Connects to Bool's hosted MCP so agents can build, edit, and publish full-stack web apps.",
+      "category": "development",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/codehs/bool-plugin.git",
+        "sha": "ef1fdd65703945fadcc6e4510ae178d024009ca8"
+      },
+      "homepage": "https://bool.com",
+      "keywords": ["build a bool app", "bool app builder", "deploy with bool", "remix a bool"],
+      "domains": ["bool.com"]
     }
   ]
 }
