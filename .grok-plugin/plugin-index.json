@@ -2,8 +2,8 @@
   "version": 1,
   "plugins": {
     "axiom": {
-      "sha": "8f26649612042662c1ea8318ff27a49a7c24531f",
-      "version": "1.1.0",
+      "sha": "001b3a883fddd8170003aa12c236205fb9eecad6",
+      "version": "1.1.2",
       "components": {
         "mcpServers": [
           {
@@ -30,11 +30,7 @@
           },
           {
             "name": "metrics-chart",
-            "description": "Render Axiom metrics query results (application/vnd.metrics.v3+json) as line charts. Zero-dependency Unicode/ASCII by d…"
-          },
-          {
-            "name": "query-metrics",
-            "description": "Runs metrics queries against Axiom MetricsDB via scripts. Discovers available metrics, tags, and tag values. Use when a…"
+            "description": "Render saved Axiom metrics v2 or v3 JSON as line charts in a terminal or transcript. Uses Unicode/ASCII by default and…"
           },
           {
             "name": "spl-to-apl",
@@ -161,8 +157,8 @@
       }
     },
     "cloudflare": {
-      "sha": "626547c06881a20b3322bdc2ed6e6451b33a4fb6",
-      "version": "1.0.1",
+      "sha": "c430dd965cea3a8faf0ef035e3b3d73b38518081",
+      "version": "1.0.2",
       "components": {
         "mcpServers": [
           {
@@ -174,6 +170,10 @@
           {
             "name": "agents-sdk",
             "description": "Build, debug, or review Cloudflare Agents SDK applications using the agents package."
+          },
+          {
+            "name": "basin",
+            "description": "Build and troubleshoot Cloudflare Basin analytics workflows with Basin Pipelines, Basin Catalog, and Basin SQL. Use for…"
           },
           {
             "name": "cloudflare",
@@ -194,6 +194,10 @@
           {
             "name": "durable-objects",
             "description": "Build, debug, or review Cloudflare Durable Objects code for persistent state and coordination."
+          },
+          {
+            "name": "k2",
+            "description": "Build and troubleshoot Cloudflare K2 or K2 Streams durable logs. Use for stream setup, producing from Workers or HTTP,…"
           },
           {
             "name": "nextjs-on-cloudflare",
@@ -222,6 +226,10 @@
           {
             "name": "workers-best-practices",
             "description": "Cloudflare Workers best practices for production applications. Use when writing, reviewing, or configuring Workers."
+          },
+          {
+            "name": "workers-profiling",
+            "description": "Profile or debug CPU usage and memory allocation in deployed Cloudflare Workers and Durable Objects. Then use this info…"
           },
           {
             "name": "wrangler",
@@ -449,8 +457,8 @@
       }
     },
     "modern-web-guidance": {
-      "sha": "650eb83619134adb947b1ee8755e6511270bc444",
-      "version": "0.0.192",
+      "sha": "a97286845f2baba38988f9e5fe2b2a1351021e50",
+      "version": "0.0.193",
       "components": {
         "skills": [
           {
@@ -570,8 +578,8 @@
       }
     },
     "netlify": {
-      "sha": "47d1f147cc134043593574b69e6483e1f6ae16ad",
-      "version": "1.6.0",
+      "sha": "b5894c0e1c16d924dd5b28546b11c2de650fce7e",
+      "version": "1.7.0",
       "components": {
         "mcpServers": [
           {
@@ -673,16 +681,16 @@
       }
     },
     "pstack": {
-      "sha": "d0ef80d86795816da932a153458c5dbe192d294e",
+      "sha": "1b6d44ff26d4e242f4e8f68c391e6d2f7ca16def",
       "components": {
         "agents": [
           {
-            "name": "Comment Sicko",
+            "name": "comment-sicko",
             "description": "A deranged comment-hater that savors deletion and condemns workaround code."
           },
           {
             "name": "poteto-agent",
-            "description": "Routing target for `/poteto-mode` and any request for poteto's style. Spawn a fresh `poteto-agent` for each new task, a…"
+            "description": "Delegate subagent for code-writing and helper tasks spawned during a `/poteto-mode` run. Use for delegates, not as the…"
           }
         ],
         "skills": [
@@ -737,6 +745,10 @@
           {
             "name": "interrogate",
             "description": "Use for \\\"interrogate\\\", \\\"adversarial review\\\", \\\"multi-model review\\\", \\\"challenge this\\\", \\\"stress test this code\\\",…"
+          },
+          {
+            "name": "ketchup",
+            "description": "Catch the user up on everything in this chat since their last message, in plain words. Give each action item an executi…"
           },
           {
             "name": "maintain-verification-skill",
@@ -808,11 +820,11 @@
           },
           {
             "name": "principle-model-the-domain",
-            "description": "Apply when writing stateful logic, or when code branches a lot or repeats a shape assumption across files. Encode the d…"
+            "description": "Apply when writing stateful logic, or when code branches a lot or repeats a shape assumption across files."
           },
           {
             "name": "principle-never-block-on-the-human",
-            "description": "Apply when tempted to ask 'should I do X?' on reversible work. Proceed, present the result, let the human course-correc…"
+            "description": "Apply when tempted to ask 'should I do X?' on reversible work."
           },
           {
             "name": "principle-outcome-oriented-execution",
@@ -824,7 +836,7 @@
           },
           {
             "name": "principle-redesign-from-first-principles",
-            "description": "Apply when integrating a new requirement into an existing design. Redesign as if the requirement had been a foundationa…"
+            "description": "Apply when integrating a new requirement into an existing design."
           },
           {
             "name": "principle-separate-before-serializing-shared-state",
@@ -840,7 +852,7 @@
           },
           {
             "name": "principle-test-behavior-not-implementation",
-            "description": "Apply when you write, change, or keep a test. Call the code the way its users do and assert the result they observe aga…"
+            "description": "Apply when you write, change, or keep a test. Call the code as its users do and assert the exact result they see. Rewri…"
           },
           {
             "name": "principle-type-system-discipline",
@@ -881,10 +893,6 @@
           {
             "name": "typescript-best-practices",
             "description": "TypeScript best practices. Use when reading or editing any .ts or .tsx file."
-          },
-          {
-            "name": "unslop",
-            "description": "Cut AI tells from any writing. Must always apply."
           }
         ]
       }
@@ -972,8 +980,8 @@
       }
     },
     "stripe": {
-      "sha": "9b91884e43839591abd6ee3c70667b2e71d5e687",
-      "version": "0.9.11",
+      "sha": "15e3db59ba17ff4ff08d787333ea803b47f38674",
+      "version": "0.9.16",
       "components": {
         "agents": [
           {
@@ -1064,8 +1072,8 @@
       }
     },
     "superpowers": {
-      "sha": "8ca22dba9a94f28898bbce59f2537ff4d87c747d",
-      "version": "6.4.2",
+      "sha": "bb92a77741419a4ab5f06e711a283343f1ada0c3",
+      "version": "7.0.0",
       "components": {
         "hooks": [
           {
@@ -1076,7 +1084,7 @@
         "skills": [
           {
             "name": "brainstorming",
-            "description": "You MUST use this before any creative work - creating features, building components, adding functionality, or modifying…"
+            "description": "You MUST use this before any creative work - creating features, building components, adding functionality, modifying be…"
           },
           {
             "name": "diagnosing-superpowers",
@@ -1184,8 +1192,8 @@
       }
     },
     "tinyfish": {
-      "sha": "89457fba3fa44c7b2227807948628011983ab668",
-      "version": "1.0.0",
+      "sha": "df5734f8ff3affa362c29ed3e1980add8b4d1372",
+      "version": "1.1.0",
       "components": {
         "mcpServers": [
           {
@@ -1205,6 +1213,10 @@
           {
             "name": "tinyfish-browser",
             "description": "Create a remote stealth Chrome session with TinyFish and control it over CDP. Use when the task needs programmatic brow…"
+          },
+          {
+            "name": "tinyfish-monitor",
+            "description": "Watch a web page or a web topic over time with TinyFish Monitors. Use when the user wants to track, watch, or be alerte…"
           },
           {
             "name": "tinyfish-research",
@@ -1553,8 +1565,8 @@
       }
     },
     "wix": {
-      "sha": "6461e8dd0a4e2649d211cdbc65c699c6e44f86a2",
-      "version": "1.30.0",
+      "sha": "b9875104d249a6a6f403e369140b679cfdb78e87",
+      "version": "1.31.2",
       "components": {
         "mcpServers": [
           {
