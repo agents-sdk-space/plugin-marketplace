@@ -434,6 +434,18 @@
         ]
       }
     },
+    "justgains": {
+      "sha": "c05cc34acc14e36ae9ddc0de867bf3d532ef5baf",
+      "version": "1.1.0",
+      "components": {
+        "mcpServers": [
+          {
+            "name": "justgains",
+            "description": "http"
+          }
+        ]
+      }
+    },
     "modern-web-guidance": {
       "sha": "a97286845f2baba38988f9e5fe2b2a1351021e50",
       "version": "0.0.193",
