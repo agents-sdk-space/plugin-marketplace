@@ -2,8 +2,8 @@
   "version": 1,
   "plugins": {
     "axiom": {
-      "sha": "0e98ebaeec76a70c8fda9a7737605800c2f1245d",
-      "version": "1.0.0",
+      "sha": "001b3a883fddd8170003aa12c236205fb9eecad6",
+      "version": "1.1.2",
       "components": {
         "mcpServers": [
           {
@@ -29,16 +29,12 @@
             "description": "Analyzes Axiom query patterns to find unused data, then builds dashboards and monitors for cost optimization. Use when…"
           },
           {
-            "name": "query-metrics",
-            "description": "Runs metrics queries against Axiom MetricsDB via scripts. Discovers available metrics, tags, and tag values. Use when a…"
+            "name": "metrics-chart",
+            "description": "Render saved Axiom metrics v2 or v3 JSON as line charts in a terminal or transcript. Uses Unicode/ASCII by default and…"
           },
           {
             "name": "spl-to-apl",
             "description": "Translates Splunk SPL queries to Axiom APL. Provides command mappings, function equivalents, and syntax transformations…"
-          },
-          {
-            "name": "writing-evals",
-            "description": "Scaffolds evaluation suites for the Axiom AI SDK. Generates eval files, scorers, flag schemas, and config from natural-…"
           }
         ]
       }
@@ -101,6 +97,23 @@
         ]
       }
     },
+    "calcom": {
+      "version": "1.0.0",
+      "components": {
+        "mcpServers": [
+          {
+            "name": "calcom",
+            "description": "http"
+          }
+        ],
+        "skills": [
+          {
+            "name": "calcom",
+            "description": "Work with Cal.com scheduling through the Cal.com MCP server: check availability, create, reschedule, cancel and confirm…"
+          }
+        ]
+      }
+    },
     "chrome-devtools": {
       "sha": "6a7e51fecaaefbea46b89e68892d42c175ee9163",
       "version": "1.10.1",
@@ -144,8 +157,8 @@
       }
     },
     "cloudflare": {
-      "sha": "626547c06881a20b3322bdc2ed6e6451b33a4fb6",
-      "version": "1.0.1",
+      "sha": "c430dd965cea3a8faf0ef035e3b3d73b38518081",
+      "version": "1.0.2",
       "components": {
         "mcpServers": [
           {
@@ -157,6 +170,10 @@
           {
             "name": "agents-sdk",
             "description": "Build, debug, or review Cloudflare Agents SDK applications using the agents package."
+          },
+          {
+            "name": "basin",
+            "description": "Build and troubleshoot Cloudflare Basin analytics workflows with Basin Pipelines, Basin Catalog, and Basin SQL. Use for…"
           },
           {
             "name": "cloudflare",
@@ -177,6 +194,10 @@
           {
             "name": "durable-objects",
             "description": "Build, debug, or review Cloudflare Durable Objects code for persistent state and coordination."
+          },
+          {
+            "name": "k2",
+            "description": "Build and troubleshoot Cloudflare K2 or K2 Streams durable logs. Use for stream setup, producing from Workers or HTTP,…"
           },
           {
             "name": "nextjs-on-cloudflare",
@@ -205,6 +226,10 @@
           {
             "name": "workers-best-practices",
             "description": "Cloudflare Workers best practices for production applications. Use when writing, reviewing, or configuring Workers."
+          },
+          {
+            "name": "workers-profiling",
+            "description": "Profile or debug CPU usage and memory allocation in deployed Cloudflare Workers and Durable Objects. Then use this info…"
           },
           {
             "name": "wrangler",
@@ -260,8 +285,8 @@
       }
     },
     "figma": {
-      "sha": "aaa07946b60797706c131ca50e50ca526a44b073",
-      "version": "2.2.126",
+      "sha": "f0493295acf5f7cbdebcbcc483c06de814420cb1",
+      "version": "2.2.127",
       "components": {
         "mcpServers": [
           {
@@ -330,8 +355,8 @@
       }
     },
     "firecrawl": {
-      "sha": "fc26fcf97921f5b4db93b06e000b6366e8d67c48",
-      "version": "1.3.0",
+      "sha": "a6af1882b1839d57d46ef20f5d3c54a10f3ec448",
+      "version": "1.3.2",
       "components": {
         "commands": [
           {
@@ -410,8 +435,8 @@
       }
     },
     "modern-web-guidance": {
-      "sha": "84ae7251ee919239d5ea85aef25897983f26601e",
-      "version": "0.0.191",
+      "sha": "a97286845f2baba38988f9e5fe2b2a1351021e50",
+      "version": "0.0.193",
       "components": {
         "skills": [
           {
@@ -531,8 +556,8 @@
       }
     },
     "netlify": {
-      "sha": "47d1f147cc134043593574b69e6483e1f6ae16ad",
-      "version": "1.6.0",
+      "sha": "b5894c0e1c16d924dd5b28546b11c2de650fce7e",
+      "version": "1.7.0",
       "components": {
         "mcpServers": [
           {
@@ -634,16 +659,16 @@
       }
     },
     "pstack": {
-      "sha": "c47b12849e43f18d5c374c7069c744cc55b0ea00",
+      "sha": "1b6d44ff26d4e242f4e8f68c391e6d2f7ca16def",
       "components": {
         "agents": [
           {
-            "name": "Comment Sicko",
+            "name": "comment-sicko",
             "description": "A deranged comment-hater that savors deletion and condemns workaround code."
           },
           {
             "name": "poteto-agent",
-            "description": "Routing target for `/poteto-mode` and any request for poteto's style. Resume an existing `poteto-agent` for the convers…"
+            "description": "Delegate subagent for code-writing and helper tasks spawned during a `/poteto-mode` run. Use for delegates, not as the…"
           }
         ],
         "skills": [
@@ -668,12 +693,20 @@
             "description": "Use for \\\"automate me\\\", \\\"create/update/refresh my -mode skill\\\", \\\"turn/capture my preferences or working style into…"
           },
           {
+            "name": "benchmark-checklist",
+            "description": "Vet a perf measurement (limiter, tuning, limits, errors, repeatability, relevance, and whether the work happened) befor…"
+          },
+          {
             "name": "blast-radius",
             "description": "Find what a change could break somewhere else before it ships, beyond the diff, and prove the one fact it's safe becaus…"
           },
           {
             "name": "bro",
             "description": "Restate the last message in plain human language, with no jargon."
+          },
+          {
+            "name": "correct",
+            "description": "Find the mistakes agents keep repeating in this repo and make each one impossible. Try architecture first, then types,…"
           },
           {
             "name": "create-verification-skill",
@@ -692,12 +725,20 @@
             "description": "Use for \\\"interrogate\\\", \\\"adversarial review\\\", \\\"multi-model review\\\", \\\"challenge this\\\", \\\"stress test this code\\\",…"
           },
           {
+            "name": "ketchup",
+            "description": "Catch the user up on everything in this chat since their last message, in plain words. Give each action item an executi…"
+          },
+          {
             "name": "maintain-verification-skill",
             "description": "Periodic pass that keeps a project's verification skill and feature map honest: parallel source readers per feature, on…"
           },
           {
             "name": "no-comments",
             "description": "Spawn Comment Sicko, fix accepted findings, and offer encodings for claimed constraints."
+          },
+          {
+            "name": "poteto-help",
+            "description": "Guides users through pstack setup, /poteto-mode, and picking the skill, playbook, or principle for a task. Type /poteto…"
           },
           {
             "name": "principle-attack-the-premise",
@@ -722,6 +763,10 @@
           {
             "name": "principle-experience-first",
             "description": "Apply when product, UX, or feature-scope tradeoffs come up. Choose user delight over implementation convenience; ship f…"
+          },
+          {
+            "name": "principle-explain-the-number",
+            "description": "Apply before you trust, report, or act on a number you measured: a speedup, a regression, a throughput, a latency, or a…"
           },
           {
             "name": "principle-fix-root-causes",
@@ -753,11 +798,11 @@
           },
           {
             "name": "principle-model-the-domain",
-            "description": "Apply when writing stateful logic, or when code branches a lot or repeats a shape assumption across files. Encode the d…"
+            "description": "Apply when writing stateful logic, or when code branches a lot or repeats a shape assumption across files."
           },
           {
             "name": "principle-never-block-on-the-human",
-            "description": "Apply when tempted to ask 'should I do X?' on reversible work. Proceed, present the result, let the human course-correc…"
+            "description": "Apply when tempted to ask 'should I do X?' on reversible work."
           },
           {
             "name": "principle-outcome-oriented-execution",
@@ -769,7 +814,7 @@
           },
           {
             "name": "principle-redesign-from-first-principles",
-            "description": "Apply when integrating a new requirement into an existing design. Redesign as if the requirement had been a foundationa…"
+            "description": "Apply when integrating a new requirement into an existing design."
           },
           {
             "name": "principle-separate-before-serializing-shared-state",
@@ -785,7 +830,7 @@
           },
           {
             "name": "principle-test-behavior-not-implementation",
-            "description": "Apply when you write, change, or keep a test. Call the code the way its users do and assert the result they observe aga…"
+            "description": "Apply when you write, change, or keep a test. Call the code as its users do and assert the exact result they see. Rewri…"
           },
           {
             "name": "principle-type-system-discipline",
@@ -826,14 +871,6 @@
           {
             "name": "typescript-best-practices",
             "description": "TypeScript best practices. Use when reading or editing any .ts or .tsx file."
-          },
-          {
-            "name": "unslop",
-            "description": "Cut AI tells from any writing. Must always apply."
-          },
-          {
-            "name": "why",
-            "description": "Use for 'why does X work this way', 'why we picked Y', design rationale, regressions, postmortems, or data-backed thres…"
           }
         ]
       }
@@ -875,8 +912,8 @@
       }
     },
     "sentry": {
-      "sha": "3d0347fbc4f2bfd39a30c9a2107f52f3efc54d67",
-      "version": "1.4.1",
+      "sha": "b0569b6255e7e02a5d9e164d32df3e969688cada",
+      "version": "1.4.3",
       "components": {
         "mcpServers": [
           {
@@ -921,8 +958,8 @@
       }
     },
     "stripe": {
-      "sha": "27db051dba7cee2e13d2dbf6d65939cf412f5b3c",
-      "version": "0.9.6",
+      "sha": "15e3db59ba17ff4ff08d787333ea803b47f38674",
+      "version": "0.9.16",
       "components": {
         "agents": [
           {
@@ -1013,8 +1050,8 @@
       }
     },
     "superpowers": {
-      "sha": "8ca22dba9a94f28898bbce59f2537ff4d87c747d",
-      "version": "6.4.2",
+      "sha": "bb92a77741419a4ab5f06e711a283343f1ada0c3",
+      "version": "7.0.0",
       "components": {
         "hooks": [
           {
@@ -1025,7 +1062,7 @@
         "skills": [
           {
             "name": "brainstorming",
-            "description": "You MUST use this before any creative work - creating features, building components, adding functionality, or modifying…"
+            "description": "You MUST use this before any creative work - creating features, building components, adding functionality, modifying be…"
           },
           {
             "name": "diagnosing-superpowers",
@@ -1133,8 +1170,8 @@
       }
     },
     "tinyfish": {
-      "sha": "89457fba3fa44c7b2227807948628011983ab668",
-      "version": "1.0.0",
+      "sha": "df5734f8ff3affa362c29ed3e1980add8b4d1372",
+      "version": "1.1.0",
       "components": {
         "mcpServers": [
           {
@@ -1154,6 +1191,10 @@
           {
             "name": "tinyfish-browser",
             "description": "Create a remote stealth Chrome session with TinyFish and control it over CDP. Use when the task needs programmatic brow…"
+          },
+          {
+            "name": "tinyfish-monitor",
+            "description": "Watch a web page or a web topic over time with TinyFish Monitors. Use when the user wants to track, watch, or be alerte…"
           },
           {
             "name": "tinyfish-research",
@@ -1307,8 +1348,8 @@
       }
     },
     "vercel": {
-      "sha": "31b69df377b88bed87d37944afc96c656ab23a04",
-      "version": "0.52.0",
+      "sha": "82fa491886796702df4727fd0845f0c7c1d3d16e",
+      "version": "0.54.1",
       "components": {
         "agents": [
           {
@@ -1372,7 +1413,7 @@
           },
           {
             "name": "ai-gateway",
-            "description": "Vercel AI Gateway guidance for setup, model discovery, authentication, routing, fallbacks, BYOK, budgets, spend reporti…"
+            "description": "Vercel AI Gateway guidance for setup, model discovery, authentication, routing, fallbacks, virtual models, evaluation m…"
           },
           {
             "name": "ai-sdk",
@@ -1380,7 +1421,7 @@
           },
           {
             "name": "auth",
-            "description": "Authentication integration guidance — Clerk (native Vercel Marketplace), Descope, and Auth0 setup for Next.js applicati…"
+            "description": "Authentication integration guidance — Clerk (native Vercel Marketplace), Better Auth, Descope, and Auth0 setup for Next…"
           },
           {
             "name": "bootstrap",
@@ -1425,6 +1466,10 @@
           {
             "name": "flags-sdk",
             "description": "Set up and use feature flags and A/B tests with the Flags SDK (`flags` npm package) and Vercel Flags. Use when installi…"
+          },
+          {
+            "name": "is-agentic",
+            "description": "Score how ready a website, domain, or public MCP endpoint is for AI agents using Is Agentic, and read or act on the res…"
           },
           {
             "name": "knowledge-update",
@@ -1498,7 +1543,7 @@
       }
     },
     "wefunder": {
-      "sha": "b7ef06e831582d8fed1a48e52baa08671c1dc7c8",
+      "sha": "88c387509206130ff18cea055ca8ec21e8e5107a",
       "version": "1.1.0",
       "components": {
         "mcpServers": [
@@ -1518,7 +1563,11 @@
           },
           {
             "name": "founder-investor-insights",
-            "description": "Resolve the connected user's companies first, then read fundraising totals, rounds, investors, semantic matches, or emp…"
+            "description": "Resolve the connected user's companies first, then read fundraising totals, rounds, investors, semantic matches, or, wi…"
+          },
+          {
+            "name": "my-portfolio",
+            "description": "Report the connected investor's own Wefunder portfolio — overall totals and return (get_my_portfolio) and the positions…"
           },
           {
             "name": "syndicate-manager",
@@ -1528,8 +1577,8 @@
       }
     },
     "wix": {
-      "sha": "4895cc9094b4fef2cf7cb7a2c408644aa58ab19d",
-      "version": "1.26.0",
+      "sha": "b9875104d249a6a6f403e369140b679cfdb78e87",
+      "version": "1.31.2",
       "components": {
         "mcpServers": [
           {
@@ -1569,6 +1618,10 @@
           {
             "name": "wix-headless-kit",
             "description": "Build a Wix Headless site fast by wiring SHIPPED, verified @wix/sdk code instead of authoring the integration from reci…"
+          },
+          {
+            "name": "wix-headless-templates",
+            "description": "The shipped, verified code behind Wix Headless sites, one folder per Wix Business Solution: an online store, bookings,…"
           },
           {
             "name": "wix-manage",
