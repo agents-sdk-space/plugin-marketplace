@@ -285,8 +285,8 @@
       }
     },
     "figma": {
-      "sha": "f0493295acf5f7cbdebcbcc483c06de814420cb1",
-      "version": "2.2.127",
+      "sha": "b0bfad2ae63dfdc1af201c5542b5c8cf93778b33",
+      "version": "2.2.152",
       "components": {
         "mcpServers": [
           {
@@ -485,8 +485,8 @@
       }
     },
     "modern-web-guidance": {
-      "sha": "a97286845f2baba38988f9e5fe2b2a1351021e50",
-      "version": "0.0.193",
+      "sha": "b31dc0a43ff5d19bcf386a3476a216f3b39a6f55",
+      "version": "0.0.194",
       "components": {
         "skills": [
           {
@@ -709,7 +709,7 @@
       }
     },
     "pstack": {
-      "sha": "1b6d44ff26d4e242f4e8f68c391e6d2f7ca16def",
+      "sha": "1dcc2bacde73ddd284803b7af28164d0436198fc",
       "components": {
         "agents": [
           {
@@ -1008,8 +1008,8 @@
       }
     },
     "stripe": {
-      "sha": "15e3db59ba17ff4ff08d787333ea803b47f38674",
-      "version": "0.9.16",
+      "sha": "deae744bc0cbf6034b4b6f22f51c690b71a4e779",
+      "version": "0.9.17",
       "components": {
         "agents": [
           {
@@ -1220,8 +1220,8 @@
       }
     },
     "tinyfish": {
-      "sha": "df5734f8ff3affa362c29ed3e1980add8b4d1372",
-      "version": "1.1.0",
+      "sha": "dca9193afeb4185da3caac9324fa33be17d0deac",
+      "version": "1.1.1",
       "components": {
         "mcpServers": [
           {
