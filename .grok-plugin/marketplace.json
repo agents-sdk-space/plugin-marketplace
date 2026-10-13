@@ -407,6 +407,31 @@
       "homepage": "https://cal.com/docs/mcp-server",
       "keywords": ["cal.com", "calcom", "cal.com mcp", "cal.com scheduling", "cal.com booking"],
       "domains": ["cal.com", "app.cal.com", "mcp.cal.com", "api.cal.com"]
+    },
+    {
+      "name": "reach",
+      "description": "Google Business Profile skills through Reach: review replies and insights, posts and post calendars, profile, hours, categories and photo fixes, growth plans, leads, review requests, reports, rankings, Maps visibility, competitors and website schema.",
+      "category": "marketing",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/LocusIntelligence-DauAgency/reach-skills.git",
+        "sha": "2b10a6be9b9b9a990ae0beb360a21476fad41918"
+      },
+      "homepage": "https://reach.locus-intelligence.com/google-business-profile-mcp",
+      "keywords": [
+        "reach",
+        "reach by locus",
+        "reach mcp",
+        "locus reach",
+        "reach google business profile"
+      ],
+      "domains": [
+        "reach.locus-intelligence.com"
+      ],
+      "version": "1.1.1",
+      "author": {
+        "name": "Reach by Locus"
+      }
     }
   ]
 }
