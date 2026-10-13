@@ -407,6 +407,19 @@
       "homepage": "https://cal.com/docs/mcp-server",
       "keywords": ["cal.com", "calcom", "cal.com mcp", "cal.com scheduling", "cal.com booking"],
       "domains": ["cal.com", "app.cal.com", "mcp.cal.com", "api.cal.com"]
+    },
+    {
+      "name": "bulkpublish",
+      "description": "BulkPublish social media scheduling: draft, schedule and publish posts across 15 networks (X, LinkedIn, Instagram, Facebook, TikTok, YouTube, Threads, Bluesky and more), manage media and channels, reply to comments, and read engagement analytics via the official BulkPublish MCP server and skills.",
+      "category": "productivity",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/bulkpublish/bulkpublish-ai-toolkit.git",
+        "sha": "661b7271b3044b4913157c856e32656093af3440"
+      },
+      "homepage": "https://bulkpublish.com",
+      "keywords": ["bulkpublish", "bulk publish", "bulkpublish mcp", "bulkpublish scheduling", "bulkpublish social media", "bulkpublish analytics"],
+      "domains": ["bulkpublish.com", "www.bulkpublish.com", "app.bulkpublish.com", "mcp.bulkpublish.com"]
     }
   ]
 }
