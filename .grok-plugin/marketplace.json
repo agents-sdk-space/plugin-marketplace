@@ -407,6 +407,20 @@
       "homepage": "https://cal.com/docs/mcp-server",
       "keywords": ["cal.com", "calcom", "cal.com mcp", "cal.com scheduling", "cal.com booking"],
       "domains": ["cal.com", "app.cal.com", "mcp.cal.com", "api.cal.com"]
+    },
+    {
+      "name": "pinto-notes",
+      "description": "Pinto Notes integration (hosted MCP server + skill). Search, read and edit your notes, checklists, tables and trackers in the Pinto Notes app for Mac and iPhone. Every change shows in the app with Undo. Sign in with your Pinto Notes account; no API key needed.",
+      "category": "productivity",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/pinto-notes/pinto-notes.git",
+        "sha": "2ee0b9d68e5e7b72a3081b520282fabd7f20a0a1",
+        "path": "plugins/grok/pinto-notes"
+      },
+      "homepage": "https://pintonotes.com/blog/mcp-server",
+      "keywords": ["pinto notes", "pinto-notes", "pintonotes", "amber notes"],
+      "domains": ["pintonotes.com", "mcp.pintonotes.com"]
     }
   ]
 }
