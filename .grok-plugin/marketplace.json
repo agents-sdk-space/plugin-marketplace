@@ -407,6 +407,18 @@
       "homepage": "https://cal.com/docs/mcp-server",
       "keywords": ["cal.com", "calcom", "cal.com mcp", "cal.com scheduling", "cal.com booking"],
       "domains": ["cal.com", "app.cal.com", "mcp.cal.com", "api.cal.com"]
+    },
+    {
+      "name": "codetopo",
+      "description": "Domain-blind code graphs for AI agents. Indexes a repository into a deterministic graph and answers structural questions over MCP — symbols, calls, blast radius, and proof-checked snapshots. Read-only: code is parsed, never executed.",
+      "category": "development",
+      "source": {
+        "type": "local",
+        "path": "./external_plugins/codetopo"
+      },
+      "homepage": "https://aimlds.org/codetopo",
+      "keywords": ["codetopo", "codetopo mcp", "codetopo code graph"],
+      "domains": ["aimlds.org"]
     }
   ]
 }
