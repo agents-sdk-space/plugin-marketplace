@@ -407,6 +407,20 @@
       "homepage": "https://cal.com/docs/mcp-server",
       "keywords": ["cal.com", "calcom", "cal.com mcp", "cal.com scheduling", "cal.com booking"],
       "domains": ["cal.com", "app.cal.com", "mcp.cal.com", "api.cal.com"]
+    },
+    {
+      "name": "loxtep",
+      "description": "Loxtep data mesh skills for connecting sources, organizing data products, and using trusted data through hosted MCP.",
+      "category": "development",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/LoxtepInc/loxtep-plugins-skills.git",
+        "sha": "1d54f2981f1bb42890f2f1cbe067a42a60c72d20",
+        "path": "grok"
+      },
+      "homepage": "https://github.com/LoxtepInc/loxtep-plugins-skills",
+      "keywords": ["loxtep", "loxtep data mesh", "loxtep mcp"],
+      "domains": ["loxtep.io", "mcp.loxtep.io"]
     }
   ]
 }

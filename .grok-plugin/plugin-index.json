@@ -434,6 +434,91 @@
         ]
       }
     },
+    "loxtep": {
+      "sha": "1d54f2981f1bb42890f2f1cbe067a42a60c72d20",
+      "components": {
+        "skills": [
+          {
+            "name": "bind-external-warehouse"
+          },
+          {
+            "name": "bot-event-batch-processing"
+          },
+          {
+            "name": "connect-external-system"
+          },
+          {
+            "name": "data-product-modeling"
+          },
+          {
+            "name": "data-workflows"
+          },
+          {
+            "name": "define-data-product-shape"
+          },
+          {
+            "name": "discover-govern-lineage"
+          },
+          {
+            "name": "governance-policies"
+          },
+          {
+            "name": "loxtep-agent-workspace"
+          },
+          {
+            "name": "loxtep-analytics"
+          },
+          {
+            "name": "loxtep-auth"
+          },
+          {
+            "name": "loxtep-deployments"
+          },
+          {
+            "name": "loxtep-instances"
+          },
+          {
+            "name": "loxtep-journey-orchestrator"
+          },
+          {
+            "name": "loxtep-mcp-session"
+          },
+          {
+            "name": "loxtep-ontology"
+          },
+          {
+            "name": "loxtep-procedures"
+          },
+          {
+            "name": "loxtep-process-intel"
+          },
+          {
+            "name": "loxtep-queue-tracing"
+          },
+          {
+            "name": "loxtep-sdk"
+          },
+          {
+            "name": "loxtep-semantic-layer"
+          },
+          {
+            "name": "loxtep-workspace"
+          },
+          {
+            "name": "mcp-integration"
+          },
+          {
+            "name": "org-semantics-quality"
+          },
+          {
+            "name": "promote-data-product"
+          },
+          {
+            "name": "semantic-ontology-mapping"
+          }
+        ]
+      }
+    },
     "modern-web-guidance": {
       "sha": "b31dc0a43ff5d19bcf386a3476a216f3b39a6f55",
       "version": "0.0.194",
