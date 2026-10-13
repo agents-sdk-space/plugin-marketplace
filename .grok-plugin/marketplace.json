@@ -414,8 +414,8 @@
       "category": "productivity",
       "source": {
         "source": "url",
-        "url": "https://github.com/azeemkafridi/bulkpublish-ai-toolkit.git",
-        "sha": "c18f0b6cb5985df7ac2159b59ac832d6de0e9009"
+        "url": "https://github.com/bulkpublish/bulkpublish-ai-toolkit.git",
+        "sha": "661b7271b3044b4913157c856e32656093af3440"
       },
       "homepage": "https://bulkpublish.com",
       "keywords": ["bulkpublish", "bulk publish", "bulkpublish mcp", "bulkpublish scheduling", "bulkpublish social media", "bulkpublish analytics"],
