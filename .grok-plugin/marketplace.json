@@ -407,6 +407,19 @@
       "homepage": "https://cal.com/docs/mcp-server",
       "keywords": ["cal.com", "calcom", "cal.com mcp", "cal.com scheduling", "cal.com booking"],
       "domains": ["cal.com", "app.cal.com", "mcp.cal.com", "api.cal.com"]
+    },
+    {
+      "name": "moomoo-mcp",
+      "description": "moomoo quotes, stock screening, news, and account trading. Connects to the hosted MCP at mcp.moomoo.com and signs in with a moomoo account on first use.",
+      "category": "finance",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/MoomooOpen/moomoo-agent-plugin.git",
+        "sha": "0b28d3c23f08702fd0afae9d3a639ff0fb21290b"
+      },
+      "homepage": "https://www.moomoo.com",
+      "keywords": ["moomoo", "moomoo mcp"],
+      "domains": ["moomoo.com", "www.moomoo.com", "mcp.moomoo.com"]
     }
   ]
 }
