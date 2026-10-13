@@ -957,6 +957,23 @@
         ]
       }
     },
+    "setmore": {
+      "version": "1.0.0",
+      "components": {
+        "mcpServers": [
+          {
+            "name": "setmore",
+            "description": "http"
+          }
+        ],
+        "skills": [
+          {
+            "name": "setmore",
+            "description": "Work with Setmore scheduling through the Setmore MCP server: check the agenda and available slots, book, reschedule and…"
+          }
+        ]
+      }
+    },
     "stripe": {
       "sha": "15e3db59ba17ff4ff08d787333ea803b47f38674",
       "version": "0.9.16",

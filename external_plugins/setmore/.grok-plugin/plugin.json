@@ -1,0 +1,12 @@
+{
+  "name": "setmore",
+  "version": "1.0.0",
+  "description": "Setmore scheduling for Grok Build via the hosted Setmore MCP server at mcp.setmore.com. Check availability, book, reschedule and cancel appointments, manage services, customers and working hours, and read Setmore Connect messages. Sign in with your Setmore account on first connect.",
+  "author": {
+    "name": "Setmore",
+    "url": "https://www.setmore.com"
+  },
+  "homepage": "https://www.setmore.com",
+  "license": "MIT",
+  "keywords": ["setmore", "setmore scheduling", "setmore booking", "setmore appointments"]
+}

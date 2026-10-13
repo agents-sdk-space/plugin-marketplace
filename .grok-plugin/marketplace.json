@@ -407,6 +407,18 @@
       "homepage": "https://cal.com/docs/mcp-server",
       "keywords": ["cal.com", "calcom", "cal.com mcp", "cal.com scheduling", "cal.com booking"],
       "domains": ["cal.com", "app.cal.com", "mcp.cal.com", "api.cal.com"]
+    },
+    {
+      "name": "setmore",
+      "description": "Setmore scheduling integration (hosted MCP server + skill). Check availability, book, reschedule and cancel appointments, manage services, customers and working hours. Sign in with your Setmore account; no API key needed.",
+      "category": "productivity",
+      "source": {
+        "type": "local",
+        "path": "./external_plugins/setmore"
+      },
+      "homepage": "https://www.setmore.com",
+      "keywords": ["setmore", "setmore scheduling", "setmore booking", "setmore appointments"],
+      "domains": ["setmore.com", "www.setmore.com", "mcp.setmore.com"]
     }
   ]
 }
