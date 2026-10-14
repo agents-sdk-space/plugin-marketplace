@@ -39,6 +39,28 @@
         ]
       }
     },
+    "banger": {
+      "sha": "7e4739112438f8a039ec1817ef94d32575440b69",
+      "version": "0.3.0",
+      "components": {
+        "mcpServers": [
+          {
+            "name": "banger",
+            "description": "http"
+          }
+        ],
+        "skills": [
+          {
+            "name": "operate-company-email",
+            "description": "Operate Banger's canonical company-email system through MCP. Use when onboarding or configuring Banger; creating or rea…"
+          },
+          {
+            "name": "setup",
+            "description": "Set up Banger right after the plugin is installed. Use when the user has just installed or connected Banger, asks to se…"
+          }
+        ]
+      }
+    },
     "base44": {
       "sha": "0d3b72a76e91d920f4a151b68dd224510ca5dc14",
       "version": "1.0.0-beta.1",

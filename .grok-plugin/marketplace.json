@@ -447,6 +447,19 @@
       "homepage": "https://www.pi.security/",
       "keywords": ["pi security", "pi security appsec", "pi security findings", "pi security remediation", "pi security threat modeling", "pi security design review"],
       "domains": ["pi.security", "mcp.pi.security"]
+    },
+    {
+      "name": "banger",
+      "description": "Company email your AI runs. Connect Grok to Banger to set up your domain, create mailboxes, send product email, run Broadcasts and Journeys, and manage contacts, with human Approvals for Journey activation and policy-gated sends, through Banger's OAuth MCP server.",
+      "category": "productivity",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/bangermail/banger-plugin.git",
+        "sha": "7e4739112438f8a039ec1817ef94d32575440b69"
+      },
+      "homepage": "https://bangermail.com/banger-mcp/",
+      "keywords": ["banger", "bangermail", "banger mail", "banger email"],
+      "domains": ["bangermail.com"]
     }
   ]
 }
