@@ -420,6 +420,20 @@
       "homepage": "https://www.skyvern.com",
       "keywords": ["skyvern", "skyvern browser", "skyvern mcp"],
       "domains": ["skyvern.com", "app.skyvern.com", "api.skyvern.com"]
+    },
+    {
+      "name": "vpsnet",
+      "description": "VPSnet cloud hosting integration (hosted MCP server + skills). Deploy applications and websites, troubleshoot KVM and Firecracker VPS servers, configure private networks and VPNs, manage DNS, domains and TLS certificates, and create and test Functions. Sign in with your VPSnet account via OAuth and choose which services and permissions to grant; no API key needed.",
+      "category": "deployment",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/bacarrdy/vpsnet-mcp.git",
+        "sha": "a8699f966d3ac29037ae2e4c4ab9c32479f79aaa",
+        "path": "plugin"
+      },
+      "homepage": "https://www.vpsnet.com",
+      "keywords": ["vpsnet", "vpsnet vps", "vpsnet dns", "vpsnet server", "vpsnet firecracker", "vpsnet functions"],
+      "domains": ["vpsnet.com", "vpsnet.lt", "mcp.vpsnet.com"]
     }
   ]
 }
