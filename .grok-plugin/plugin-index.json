@@ -997,6 +997,110 @@
         ]
       }
     },
+    "story-skills": {
+      "sha": "415181fea2a19fdeb762df4d689652072d138f54",
+      "version": "0.24.0",
+      "components": {
+        "skills": [
+          {
+            "name": "adaptation",
+            "description": "This skill should be used when the user asks to \"make an audiobook\", \"narration script\", \"narrator\", \"ACX\", \"Findaway\",…"
+          },
+          {
+            "name": "chapter-writing",
+            "description": "This skill should be used when the user asks to \"write a chapter\", \"next chapter\", \"chapter outline\", \"draft chapter\",…"
+          },
+          {
+            "name": "character-management",
+            "description": "This skill should be used when the user asks to \"create a character\", \"update a character\", \"add a character\", \"build a…"
+          },
+          {
+            "name": "discovery-drafting",
+            "description": "This skill should be used when the user asks about \"pantsing\", \"discovery write\", \"write without an outline\", \"discover…"
+          },
+          {
+            "name": "editorial-review",
+            "description": "This skill should be used when the user asks for a \"sensitivity reader\", \"authenticity reader\", \"cultural review\", \"is…"
+          },
+          {
+            "name": "feedback-triage",
+            "description": "This skill should be used when the user asks to \"process beta reader feedback\", \"alpha reader feedback\", \"feedback roun…"
+          },
+          {
+            "name": "genre-craft",
+            "description": "This skill should be used when the user asks about \"mystery\", \"fair play\", \"clue\", \"red herring\", \"romance beats\", \"HEA…"
+          },
+          {
+            "name": "interactive-fiction",
+            "description": "This skill should be used when the user asks to \"write a branching story\", \"interactive fiction\", \"choose your own adve…"
+          },
+          {
+            "name": "line-editing",
+            "description": "This skill should be used when the user asks to \"line edit\", \"edit my prose\", \"polish this chapter\", \"tighten the prose…"
+          },
+          {
+            "name": "plot-structure",
+            "description": "This skill should be used when the user asks to \"create a plot arc\", \"story structure\", \"add a plot point\", \"story time…"
+          },
+          {
+            "name": "premise-workshop",
+            "description": "This skill should be used when the user asks to \"brainstorm a story idea\", \"I have an idea for a story\", \"what if\", \"de…"
+          },
+          {
+            "name": "publishing",
+            "description": "This skill should be used when the user asks to \"self-publish\", \"publish my book\", \"ISBN\", \"copyright page\", \"book meta…"
+          },
+          {
+            "name": "reader-panel",
+            "description": "This skill should be used when the user asks for a \"simulated beta read\", \"reader panel\", \"persona read\", \"first read b…"
+          },
+          {
+            "name": "research",
+            "description": "This skill should be used when the user asks to \"research\", \"fact-check\", \"check the history\", \"is this accurate\", \"res…"
+          },
+          {
+            "name": "revision-continuity",
+            "description": "This skill should be used when the user asks to \"revise a chapter\", \"continuity check\", \"find inconsistencies\", \"audit…"
+          },
+          {
+            "name": "scene-craft",
+            "description": "This skill should be used when the user asks to \"plan a scene\", \"scene structure\", \"sequel scene\", \"dialogue subtext\",…"
+          },
+          {
+            "name": "series-continuity",
+            "description": "This skill should be used when the user asks to \"write a sequel\", \"write a prequel\", \"start book two\", \"continue the se…"
+          },
+          {
+            "name": "story-init",
+            "description": "This skill should be used when the user asks to \"start a new story\", \"initialize a story project\", \"create a story\", \"n…"
+          },
+          {
+            "name": "story-maintenance",
+            "description": "This skill should be used when the user asks to \"validate\", \"reindex\", \"repair registries\", \"check links\", \"run the con…"
+          },
+          {
+            "name": "submission",
+            "description": "This skill should be used when the user asks to \"write a query letter\", \"query\", \"querying\", \"pitch\", \"blurb\", \"back co…"
+          },
+          {
+            "name": "theme-craft",
+            "description": "This skill should be used when the user asks about \"theme\", \"controlling idea\", \"thematic argument\", \"moral argument\",…"
+          },
+          {
+            "name": "verse-craft",
+            "description": "This skill should be used when the user asks to \"write a poem\", \"write a limerick\", \"write a sonnet\", \"haiku\", \"villane…"
+          },
+          {
+            "name": "voice-style",
+            "description": "This skill should be used when the user asks to \"create a style sheet\", \"style guide\", \"house style\", \"keep the voice c…"
+          },
+          {
+            "name": "worldbuilding",
+            "description": "This skill should be used when the user asks to \"create a location\", \"add a location\", \"magic system\", \"political syste…"
+          }
+        ]
+      }
+    },
     "stripe": {
       "sha": "789ef5e0a55ee1d0787a5974660b15bf76dc29b5",
       "version": "0.9.18",
