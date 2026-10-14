@@ -434,6 +434,24 @@
         ]
       }
     },
+    "jetpack": {
+      "sha": "689e4197c512ab25f74841f244d61cac28a52a15",
+      "version": "0.1.0",
+      "components": {
+        "mcpServers": [
+          {
+            "name": "jetpack",
+            "description": "http"
+          }
+        ],
+        "skills": [
+          {
+            "name": "edit-wordpress-block-content",
+            "description": "Create and edit serialized WordPress block content for posts, pages, patterns, templates, and template parts. Use when…"
+          }
+        ]
+      }
+    },
     "modern-web-guidance": {
       "sha": "b31dc0a43ff5d19bcf386a3476a216f3b39a6f55",
       "version": "0.0.194",

@@ -420,6 +420,19 @@
       "homepage": "https://www.skyvern.com",
       "keywords": ["skyvern", "skyvern browser", "skyvern mcp"],
       "domains": ["skyvern.com", "app.skyvern.com", "api.skyvern.com"]
+    },
+    {
+      "name": "jetpack",
+      "description": "Connect your WordPress site to Grok with Jetpack AI. Publish and update content, manage plugins and settings, and work through routine admin without jumping into WordPress for every change.\n\nJetpack's Grok connector uses the full WordPress.com MCP toolkit, which means you can also control any WordPress.com sites that you have from the same plugin.\n\nRequires the Jetpack plugin to be active on your site.",
+      "category": "development",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/Automattic/grok-jetpack-plugin.git",
+        "sha": "689e4197c512ab25f74841f244d61cac28a52a15"
+      },
+      "homepage": "https://jetpack.com",
+      "keywords": ["jetpack", "wordpress", "website", "jetpack mcp"],
+      "domains": ["jetpack.com", "wordpress.com", "public-api.wordpress.com"]
     }
   ]
 }
