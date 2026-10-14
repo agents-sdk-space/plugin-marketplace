@@ -420,6 +420,18 @@
       "homepage": "https://www.skyvern.com",
       "keywords": ["skyvern", "skyvern browser", "skyvern mcp"],
       "domains": ["skyvern.com", "app.skyvern.com", "api.skyvern.com"]
+    },
+    {
+      "name": "boattrader",
+      "description": "Boat Trader live boat-listings search (hosted MCP server + skill). Search current U.S. boats for sale, research market asking prices and availability, and get full details for a specific listing. No sign-in required.",
+      "category": "productivity",
+      "source": {
+        "type": "local",
+        "path": "./external_plugins/boattrader"
+      },
+      "homepage": "https://www.boattrader.com",
+      "keywords": ["boattrader", "boat trader", "boattrader mcp", "boattrader listings", "boats for sale"],
+      "domains": ["boattrader.com", "www.boattrader.com", "boattrader-mcp.live.boatsgroup.com"]
     }
   ]
 }
