@@ -433,6 +433,19 @@
       "homepage": "https://htmlcsstoimage.com",
       "keywords": ["html/css to image", "html css to image", "html-to-image", "html to image api", "hcti", "image generation", "screenshot", "url screenshot", "pdf", "image templates", "open graph image", "social preview"],
       "domains": ["htmlcsstoimage.com", "docs.htmlcsstoimage.com", "hcti.io", "mcp.hcti.io"]
+    },
+    {
+      "name": "detachbox",
+      "description": "detachbox integration (hosted MCP server + skills). Drive the coding agents in your detachbox terminals from Grok Build: see what every agent is doing, answer the one that waits for you, hand the next task to the one that finished, start a terminal with a task, and read project files. Sign in with your detachbox account over OAuth in the browser; no API key to paste.",
+      "category": "development",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/OlegSotnikov/detachbox-plugin.git",
+        "sha": "2e666c468318b0e1dbaedafa9befdc74df69d36e"
+      },
+      "homepage": "https://detachbox.com/docs/assistants",
+      "keywords": ["detachbox", "detachbox terminals", "detachbox agents", "detachbox mcp"],
+      "domains": ["detachbox.com", "my.detachbox.com", "api.detachbox.com"]
     }
   ]
 }

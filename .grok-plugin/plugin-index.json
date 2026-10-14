@@ -260,6 +260,28 @@
         ]
       }
     },
+    "detachbox": {
+      "sha": "2e666c468318b0e1dbaedafa9befdc74df69d36e",
+      "version": "1.0.0",
+      "components": {
+        "mcpServers": [
+          {
+            "name": "detachbox",
+            "description": "http"
+          }
+        ],
+        "skills": [
+          {
+            "name": "drive-agents",
+            "description": "Drive the coding agents (Claude Code, Codex, OpenCode) in the user's detachbox terminals. Use when the user asks what t…"
+          },
+          {
+            "name": "watch-terminals",
+            "description": "Keep watch over the user's detachbox terminals and tell them the moment an agent waits for an answer, finishes its turn…"
+          }
+        ]
+      }
+    },
     "exa": {
       "sha": "879fae0c814765c43f39ea8f56aae1d44e9d9bc8",
       "version": "1.1.0",
