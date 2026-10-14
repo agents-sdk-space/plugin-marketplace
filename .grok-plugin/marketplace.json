@@ -420,6 +420,20 @@
       "homepage": "https://www.skyvern.com",
       "keywords": ["skyvern", "skyvern browser", "skyvern mcp"],
       "domains": ["skyvern.com", "app.skyvern.com", "api.skyvern.com"]
+    },
+    {
+      "name": "costory",
+      "description": "Turn Grok into a FinOps agent: connects Costory's hosted MCP server (OAuth, no local process) for allocated AWS, GCP, Azure, Kubernetes, SaaS and AI cost, plus skills to investigate cost changes, query spend, allocate shared cost to teams (virtual dimensions), and build dashboards, scheduled reports and alerts. Sign in with your Costory account on first connection; 14-day trial.",
+      "category": "monitoring",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/costory-io/costory-finops-mcp-skills.git",
+        "path": "plugins/costory",
+        "sha": "3c36540d3b53366bc8cce1da8adac357980b8588"
+      },
+      "homepage": "https://www.costory.io",
+      "keywords": ["costory", "costory finops", "costory mcp", "costory cost allocation"],
+      "domains": ["costory.io", "app.costory.io", "docs.costory.io"]
     }
   ]
 }
