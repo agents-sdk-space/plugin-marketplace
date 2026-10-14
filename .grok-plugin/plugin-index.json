@@ -67,6 +67,18 @@
         ]
       }
     },
+    "better-writing": {
+      "sha": "8e45d0b241fc042d39444f499bbce4cfdb7a6c86",
+      "version": "2.0.0",
+      "components": {
+        "skills": [
+          {
+            "name": "better-writing",
+            "description": "Rewrite, draft, and review prose so it is clear, specific, human, and fits its context. Use when improving emails, repo…"
+          }
+        ]
+      }
+    },
     "browser-use": {
       "sha": "4749bcbfe456e5384b98281a8a66119352197f59",
       "version": "0.1.0",
