@@ -447,6 +447,28 @@
       "homepage": "https://www.pi.security/",
       "keywords": ["pi security", "pi security appsec", "pi security findings", "pi security remediation", "pi security threat modeling", "pi security design review"],
       "domains": ["pi.security", "mcp.pi.security"]
+    },
+    {
+      "name": "ev-backroads",
+      "description": "Search 200 EV Backroads public trails and inspect constraints. Coordinate approach links cover Shafer Trail and Elephant Hill only.",
+      "category": "travel",
+      "source": {
+        "type": "local",
+        "path": "./external_plugins/ev-backroads"
+      },
+      "homepage": "https://www.evbackroads.com",
+      "keywords": [
+        "ev backroads",
+        "evbackroads"
+      ],
+      "domains": [
+        "evbackroads.com"
+      ],
+      "version": "1.0.0",
+      "author": {
+        "name": "EV Backroads",
+        "url": "https://www.evbackroads.com"
+      }
     }
   ]
 }
