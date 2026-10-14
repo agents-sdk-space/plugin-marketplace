@@ -420,6 +420,19 @@
       "homepage": "https://www.skyvern.com",
       "keywords": ["skyvern", "skyvern browser", "skyvern mcp"],
       "domains": ["skyvern.com", "app.skyvern.com", "api.skyvern.com"]
+    },
+    {
+      "name": "flowmeets",
+      "description": "Flowmeets conversational intelligence: search conversations, summaries, transcripts, action items, insights and team knowledge.",
+      "category": "productivity",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/flowmeets/flowmeets-mcp-connector.git",
+        "sha": "9ed492a6329e88e187597b0a67c8f8de11104106"
+      },
+      "homepage": "https://www.flowmeets.com",
+      "keywords": ["flowmeets", "flowmeets meetings"],
+      "domains": ["flowmeets.com", "app.flowmeets.com"]
     }
   ]
 }

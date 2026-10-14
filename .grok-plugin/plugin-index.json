@@ -422,6 +422,18 @@
         ]
       }
     },
+    "flowmeets": {
+      "sha": "9ed492a6329e88e187597b0a67c8f8de11104106",
+      "version": "1.0.0",
+      "components": {
+        "mcpServers": [
+          {
+            "name": "flowmeets",
+            "description": "http"
+          }
+        ]
+      }
+    },
     "helena": {
       "sha": "9b71516e006144d323f138f1785f55123ec51931",
       "version": "1.0.0",
