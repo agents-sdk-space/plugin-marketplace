@@ -385,7 +385,7 @@
     },
     {
       "name": "b2bleads",
-      "description": "B2BLeads business discovery: search and enrich B2B company contacts (name, address, phone, website, email) by industry, location, rating, and company size, and look up a contact email for a single website.",
+      "description": "B2BLeads business discovery: search and enrich B2B company contacts (name, address, phone, website, email) by industry, location, and company size, and look up a contact email for a single website.",
       "category": "productivity",
       "source": {
         "source": "url",
