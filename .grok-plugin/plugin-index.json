@@ -423,8 +423,8 @@
       }
     },
     "fork-and-flush": {
-      "sha": "1041e746814293af488f7e8395f0bb2478fbeb43",
-      "version": "0.1.4",
+      "sha": "ef78ef5f3cc2b8f296f3ef29b4e6be3d3e26f565",
+      "version": "0.1.5",
       "components": {
         "skills": [
           {

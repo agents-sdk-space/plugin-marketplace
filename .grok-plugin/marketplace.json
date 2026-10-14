@@ -428,7 +428,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/obsidianhq-xyz/skills.git",
-        "sha": "1041e746814293af488f7e8395f0bb2478fbeb43",
+        "sha": "ef78ef5f3cc2b8f296f3ef29b4e6be3d3e26f565",
         "path": "plugins/fork-and-flush"
       },
       "homepage": "https://github.com/obsidianhq-xyz/skills/tree/main/plugins/fork-and-flush",
