@@ -420,6 +420,23 @@
       "homepage": "https://www.skyvern.com",
       "keywords": ["skyvern", "skyvern browser", "skyvern mcp"],
       "domains": ["skyvern.com", "app.skyvern.com", "api.skyvern.com"]
+    },
+    {
+      "name": "idiolect",
+      "description": "Write and revise emails, messages, posts, replies, and docs with your Idiolect AI Writing Profile.",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/moshpit-labs/idiolect-mcp.git",
+        "sha": "ef71ef0de39ab3b7fcabbe937e6b2e2c3c414ae8"
+      },
+      "homepage": "https://idiolect.app",
+      "keywords": [
+        "idiolect",
+        "idiolect ai"
+      ],
+      "domains": [
+        "idiolect.app"
+      ]
     }
   ]
 }

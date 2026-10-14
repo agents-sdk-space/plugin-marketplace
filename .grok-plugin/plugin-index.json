@@ -434,6 +434,17 @@
         ]
       }
     },
+    "idiolect": {
+      "sha": "ef71ef0de39ab3b7fcabbe937e6b2e2c3c414ae8",
+      "components": {
+        "mcpServers": [
+          {
+            "name": "idiolect",
+            "description": "http"
+          }
+        ]
+      }
+    },
     "modern-web-guidance": {
       "sha": "b31dc0a43ff5d19bcf386a3476a216f3b39a6f55",
       "version": "0.0.194",
