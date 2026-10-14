@@ -1089,6 +1089,127 @@
         ]
       }
     },
+    "superlocalmemory": {
+      "sha": "2aeef02a3007c3bdc097b4b00e89c905f1b72289",
+      "version": "4.2.6",
+      "components": {
+        "agents": [
+          {
+            "name": "slm-governance-advisor",
+            "description": "Advises on scope, roles, compliance, and GDPR use in SuperLocalMemory. Consult this advisor when working in a governed…"
+          },
+          {
+            "name": "slm-loop-runner",
+            "description": "Runs a task as a bounded loop backed by SuperLocalMemory: iterate until an INDEPENDENT gate passes — never the agent's…"
+          },
+          {
+            "name": "slm-memory-advisor",
+            "description": "Advises the main agent on using SuperLocalMemory well — when to call session_init, remember, recall, and search; how to…"
+          },
+          {
+            "name": "slm-optimize-advisor",
+            "description": "Applies SuperLocalMemory's context-optimization rules — reversible compression of large tool output and KV-caching of r…"
+          }
+        ],
+        "commands": [
+          {
+            "name": "slm-loop",
+            "description": "Run a task as a bounded, gate-verified loop backed by SuperLocalMemory — iterate until an independent gate passes, neve…"
+          }
+        ],
+        "hooks": [
+          {
+            "name": "PostToolUse",
+            "description": "Write|Edit, Bash|Read|Write|Edit|Glob|Grep|Agent|WebFetch|WebSearch|NotebookEdit"
+          },
+          {
+            "name": "PreToolUse",
+            "description": "WebSearch|WebFetch"
+          },
+          {
+            "name": "SessionStart"
+          },
+          {
+            "name": "Stop"
+          },
+          {
+            "name": "UserPromptSubmit"
+          }
+        ],
+        "mcpServers": [
+          {
+            "name": "superlocalmemory",
+            "description": "stdio"
+          }
+        ],
+        "skills": [
+          {
+            "name": "slm-bot-memory",
+            "description": "Cross-bot memory on a shared computer (Grok Bot, Cursor plugin, any host where several agents share one machine). Expla…"
+          },
+          {
+            "name": "slm-cache",
+            "description": "KV cache for repeated reads — call slm_cache_get(key) first; on a miss do the expensive operation then slm_cache_set(ke…"
+          },
+          {
+            "name": "slm-compress",
+            "description": "Compress large text, tool output, or transcripts to reduce context-window usage while keeping the full 1M window intact…"
+          },
+          {
+            "name": "slm-getting-started-bot",
+            "description": "First-session orientation for SuperLocalMemory on a headless bot host (Grok Bot, or any Cursor-format plugin install wi…"
+          },
+          {
+            "name": "slm-governance",
+            "description": "Governed-workspace behavior for SuperLocalMemory. Covers roles (admin/member/viewer) and company mode, who administers…"
+          },
+          {
+            "name": "slm-graph",
+            "description": "Index and query a codebase as a structural graph — build the code graph, trace blast radius of a change, find callers/c…"
+          },
+          {
+            "name": "slm-loop",
+            "description": "Gate-verified bounded loops with SuperLocalMemory as the durable ledger. Use when a task has a checkable acceptance con…"
+          },
+          {
+            "name": "slm-media",
+            "description": "Save pictures and PDFs in SuperLocalMemory and find them again by describing them. Covers when to save a picture or doc…"
+          },
+          {
+            "name": "slm-mesh",
+            "description": "Cross-session peer coordination via the SLM mesh network. Lets multiple AI agent sessions on the same machine, and web…"
+          },
+          {
+            "name": "slm-profile",
+            "description": "Memory profiles (separate namespaces inside one SuperLocalMemory store) and MCP tool sets (which tools your host sees).…"
+          },
+          {
+            "name": "slm-recall",
+            "description": "Search and retrieve facts, decisions, and past context from SuperLocalMemory. Use when the user asks to recall, find, s…"
+          },
+          {
+            "name": "slm-remember",
+            "description": "Capture durable facts, decisions, constraints, and gotchas into SuperLocalMemory. Use when the user says \"remember that…"
+          },
+          {
+            "name": "slm-scope",
+            "description": "Controls memory visibility across profiles — personal (private, default), shared (selected profiles), or global (all pr…"
+          },
+          {
+            "name": "slm-session",
+            "description": "Manage SuperLocalMemory session lifecycle — call session_init once at the start of every fresh session to load relevant…"
+          },
+          {
+            "name": "slm-status",
+            "description": "Health and optimization stats for SuperLocalMemory — call slm_optimize_stats() for live compression and cache counters…"
+          },
+          {
+            "name": "slm-web-access",
+            "description": "Set up and troubleshoot SuperLocalMemory Web access, the optional link that lets web apps (ChatGPT, Claude on the web,…"
+          }
+        ]
+      }
+    },
     "superpowers": {
       "sha": "bb92a77741419a4ab5f06e711a283343f1ada0c3",
       "version": "7.0.0",
