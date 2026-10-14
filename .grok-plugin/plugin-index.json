@@ -1247,6 +1247,26 @@
         ]
       }
     },
+    "terraphim-skills-intro": {
+      "sha": "391c7e4ebc103f1770b9dca589fcce7ccd211d5f",
+      "version": "0.2.4",
+      "components": {
+        "skills": [
+          {
+            "name": "terraphim-agent-learn",
+            "description": "Inspect and capture command failures or user corrections with terraphim-agent learn. Use when a user asks to preserve a…"
+          },
+          {
+            "name": "terraphim-agent-memory",
+            "description": "Save explicit authored lessons, read saved memory by ID, and retrieve configured KG-ranked memory with terraphim-agent…"
+          },
+          {
+            "name": "terraphim-grep",
+            "description": "Search local source code and documentation with the installed terraphim-grep CLI. Use for bounded text or knowledge-gra…"
+          }
+        ]
+      }
+    },
     "tinyfish": {
       "sha": "dca9193afeb4185da3caac9324fa33be17d0deac",
       "version": "1.1.1",

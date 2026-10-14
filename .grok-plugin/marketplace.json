@@ -447,6 +447,19 @@
       "homepage": "https://www.pi.security/",
       "keywords": ["pi security", "pi security appsec", "pi security findings", "pi security remediation", "pi security threat modeling", "pi security design review"],
       "domains": ["pi.security", "mcp.pi.security"]
+    },
+    {
+      "name": "terraphim-skills-intro",
+      "description": "Three Terraphim CLI skills: search an editor-exported synonym graph with terraphim-grep, capture and read back authored memory with terraphim-agent, and compile reviewed command corrections.",
+      "category": "development",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/terraphim/terraphim-cursor-plugin.git",
+        "sha": "391c7e4ebc103f1770b9dca589fcce7ccd211d5f"
+      },
+      "homepage": "https://terraphim-skills.md/",
+      "keywords": ["terraphim", "terraphim grep", "terraphim agent", "terraphim skills"],
+      "domains": ["terraphim-skills.md", "terraphim.ai"]
     }
   ]
 }
