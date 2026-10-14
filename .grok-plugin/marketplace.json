@@ -447,6 +447,18 @@
       "homepage": "https://www.pi.security/",
       "keywords": ["pi security", "pi security appsec", "pi security findings", "pi security remediation", "pi security threat modeling", "pi security design review"],
       "domains": ["pi.security", "mcp.pi.security"]
+    },
+    {
+      "name": "hogmatix",
+      "description": "Hogmatix social media scheduling: schedule X posts and threads and TikTok and YouTube videos on the accounts connected to your Hogmatix account, check upcoming posts and cancel pending ones. Sign in with a Hogmatix account on first connect.",
+      "category": "productivity",
+      "source": {
+        "type": "local",
+        "path": "./external_plugins/hogmatix"
+      },
+      "homepage": "https://hogmatix.com",
+      "keywords": ["hogmatix", "hogmatix scheduler", "hogmatix mcp"],
+      "domains": ["hogmatix.com"]
     }
   ]
 }
