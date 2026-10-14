@@ -180,7 +180,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/figma/mcp-server-guide.git",
-        "sha": "b0bfad2ae63dfdc1af201c5542b5c8cf93778b33"
+        "sha": "2b85b7d27bd6ee124667fcfe88856f6b1f81671a"
       },
       "homepage": "https://github.com/figma/mcp-server-guide",
       "keywords": ["figma", "figma mcp"],
@@ -232,7 +232,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/railwayapp/railway-skills.git",
-        "sha": "4db2ee90245d61be0ffea28280164373ac3f96c0",
+        "sha": "526e95524e964ed326689cbac4464d97a58ab81c",
         "path": "plugins/railway"
       },
       "homepage": "https://github.com/railwayapp/railway-skills",
@@ -246,7 +246,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/stripe/ai.git",
-        "sha": "deae744bc0cbf6034b4b6f22f51c690b71a4e779",
+        "sha": "789ef5e0a55ee1d0787a5974660b15bf76dc29b5",
         "path": "providers/grok/plugin"
       },
       "homepage": "https://github.com/stripe/ai",
@@ -287,7 +287,7 @@
       "source": {
         "source": "url",
         "url": "https://github.com/cursor/plugins.git",
-        "sha": "1dcc2bacde73ddd284803b7af28164d0436198fc",
+        "sha": "1e5c90a4b6f249917bd21fe361b3a2a7deb741b8",
         "path": "pstack"
       },
       "homepage": "https://github.com/cursor/plugins/tree/main/pstack",
@@ -421,6 +421,32 @@
       "homepage": "https://cal.com/docs/mcp-server",
       "keywords": ["cal.com", "calcom", "cal.com mcp", "cal.com scheduling", "cal.com booking"],
       "domains": ["cal.com", "app.cal.com", "mcp.cal.com", "api.cal.com"]
+    },
+    {
+      "name": "skyvern",
+      "description": "Give Grok a real cloud browser via Skyvern's hosted MCP server. Open pages, click, type, fill forms, upload files, read page content, take screenshots, and inspect console and network activity on live websites, including logged-in ones through stored credentials. Sign in with your Skyvern account on first connection; no API key needed.",
+      "category": "development",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/Skyvern-AI/skyvern-grok-plugin.git",
+        "sha": "6fae60f5476857b8e3796bd253854809851ebc3b"
+      },
+      "homepage": "https://www.skyvern.com",
+      "keywords": ["skyvern", "skyvern browser", "skyvern mcp"],
+      "domains": ["skyvern.com", "app.skyvern.com", "api.skyvern.com"]
+    },
+    {
+      "name": "html-css-to-image",
+      "description": "HTML/CSS to Image API integration with a hosted OAuth MCP server and purpose-built skills. Generate images and PDFs, capture webpages, work with reusable templates, manage rendering resources, and automate dynamic Open Graph images—without managing a browser.",
+      "category": "development",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/htmlcsstoimage/agent-plugins.git",
+        "sha": "73eb09e39e26cf7029800533ef180bbe0286fd73"
+      },
+      "homepage": "https://htmlcsstoimage.com",
+      "keywords": ["html/css to image", "html css to image", "html-to-image", "html to image api", "hcti", "image generation", "screenshot", "url screenshot", "pdf", "image templates", "open graph image", "social preview"],
+      "domains": ["htmlcsstoimage.com", "docs.htmlcsstoimage.com", "hcti.io", "mcp.hcti.io"]
     }
   ]
 }
