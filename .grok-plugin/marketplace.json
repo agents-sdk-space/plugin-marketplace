@@ -420,6 +420,18 @@
       "homepage": "https://www.skyvern.com",
       "keywords": ["skyvern", "skyvern browser", "skyvern mcp"],
       "domains": ["skyvern.com", "app.skyvern.com", "api.skyvern.com"]
+    },
+    {
+      "name": "ncstatutes",
+      "description": "North Carolina General Statutes via the hosted ncstatutes.com MCP server (MCP server + skill). Search the statute book by topic, read any section by citation, trace amendment history back to the 1800s, diff versions, see enacted-but-not-yet-effective changes, and follow cross-references. Free and read-only; no account or API key needed.",
+      "category": "productivity",
+      "source": {
+        "type": "local",
+        "path": "./external_plugins/ncstatutes"
+      },
+      "homepage": "https://ncstatutes.com",
+      "keywords": ["ncstatutes", "nc statutes", "north carolina general statutes", "n.c.g.s.", "ncgs"],
+      "domains": ["ncstatutes.com", "mcp.ncstatutes.com"]
     }
   ]
 }
