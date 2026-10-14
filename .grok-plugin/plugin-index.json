@@ -434,6 +434,18 @@
         ]
       }
     },
+    "minty": {
+      "sha": "d8e97288477569e467a78b525d237a47c1f0954d",
+      "version": "1.0.0",
+      "components": {
+        "mcpServers": [
+          {
+            "name": "minty",
+            "description": "http"
+          }
+        ]
+      }
+    },
     "modern-web-guidance": {
       "sha": "b31dc0a43ff5d19bcf386a3476a216f3b39a6f55",
       "version": "0.0.194",
