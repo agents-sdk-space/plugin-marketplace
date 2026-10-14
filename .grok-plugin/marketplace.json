@@ -433,6 +433,18 @@
       "homepage": "https://htmlcsstoimage.com",
       "keywords": ["html/css to image", "html css to image", "html-to-image", "html to image api", "hcti", "image generation", "screenshot", "url screenshot", "pdf", "image templates", "open graph image", "social preview"],
       "domains": ["htmlcsstoimage.com", "docs.htmlcsstoimage.com", "hcti.io", "mcp.hcti.io"]
+    },
+    {
+      "name": "better-writing",
+      "description": "Rewrite, draft, and review prose so it is clear, specific, and human, without inventing facts or flattening the writer's voice. Covers voice calibration from a writing sample, AI-tell audits with a false-positive list, and a preflight check that every fact survived the edit.",
+      "category": "productivity",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/forjd/better-writing.git",
+        "sha": "8e45d0b241fc042d39444f499bbce4cfdb7a6c86"
+      },
+      "homepage": "https://github.com/forjd/better-writing",
+      "keywords": ["better-writing", "better writing skill", "forjd"]
     }
   ]
 }
