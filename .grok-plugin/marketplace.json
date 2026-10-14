@@ -433,6 +433,20 @@
       "homepage": "https://htmlcsstoimage.com",
       "keywords": ["html/css to image", "html css to image", "html-to-image", "html to image api", "hcti", "image generation", "screenshot", "url screenshot", "pdf", "image templates", "open graph image", "social preview"],
       "domains": ["htmlcsstoimage.com", "docs.htmlcsstoimage.com", "hcti.io", "mcp.hcti.io"]
+    },
+    {
+      "name": "superlocalmemory",
+      "description": "Local-first long-term memory for Grok. Remembers decisions, documents and preferences across sessions and recalls them when they are relevant, with multi-agent coordination (SLM-Mesh) and reversible context compression. The memory store stays on your own computer; no account or API key needed.",
+      "category": "productivity",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/qualixar/superlocalmemory.git",
+        "path": "plugin",
+        "sha": "2aeef02a3007c3bdc097b4b00e89c905f1b72289"
+      },
+      "homepage": "https://superlocalmemory.com",
+      "keywords": ["superlocalmemory", "superlocal memory", "slm memory", "qualixar"],
+      "domains": ["superlocalmemory.com"]
     }
   ]
 }
