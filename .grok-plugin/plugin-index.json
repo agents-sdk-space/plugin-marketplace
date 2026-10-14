@@ -422,6 +422,18 @@
         ]
       }
     },
+    "fork-and-flush": {
+      "sha": "ef78ef5f3cc2b8f296f3ef29b4e6be3d3e26f565",
+      "version": "0.1.5",
+      "components": {
+        "skills": [
+          {
+            "name": "fork-and-flush",
+            "description": "Explore competing solutions to a measurable research or engineering problem using isolated agent branches, fresh conver…"
+          }
+        ]
+      }
+    },
     "helena": {
       "sha": "9b71516e006144d323f138f1785f55123ec51931",
       "version": "1.0.0",

@@ -420,6 +420,22 @@
       "homepage": "https://www.skyvern.com",
       "keywords": ["skyvern", "skyvern browser", "skyvern mcp"],
       "domains": ["skyvern.com", "app.skyvern.com", "api.skyvern.com"]
+    },
+    {
+      "name": "fork-and-flush",
+      "description": "Explore measurable research and optimization tasks in fresh agent sessions, evaluate isolated candidates, and continue the best verified lineage within a fixed budget.",
+      "category": "development",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/obsidianhq-xyz/skills.git",
+        "sha": "ef78ef5f3cc2b8f296f3ef29b4e6be3d3e26f565",
+        "path": "plugins/fork-and-flush"
+      },
+      "homepage": "https://github.com/obsidianhq-xyz/skills/tree/main/plugins/fork-and-flush",
+      "keywords": [
+        "fork-and-flush",
+        "obsidianhq fork-and-flush"
+      ]
     }
   ]
 }
