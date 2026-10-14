@@ -433,6 +433,19 @@
       "homepage": "https://htmlcsstoimage.com",
       "keywords": ["html/css to image", "html css to image", "html-to-image", "html to image api", "hcti", "image generation", "screenshot", "url screenshot", "pdf", "image templates", "open graph image", "social preview"],
       "domains": ["htmlcsstoimage.com", "docs.htmlcsstoimage.com", "hcti.io", "mcp.hcti.io"]
+    },
+    {
+      "name": "webability",
+      "description": "Accessibility for your coding agent. Scan pages and HTML for WCAG 2.2 AA, ADA and Section 508 issues, get source-level fixes, and verify each fix. Hosted MCP server, free, no install.",
+      "category": "development",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/snayyar00/webability-mcp.git",
+        "sha": "84e5f90b64dbcd2c74b8b4deec11665090f236b0"
+      },
+      "homepage": "https://www.webability.io/mcp",
+      "keywords": ["webability", "webability accessibility", "webability mcp"],
+      "domains": ["webability.io", "mcp.webability.io"]
     }
   ]
 }
