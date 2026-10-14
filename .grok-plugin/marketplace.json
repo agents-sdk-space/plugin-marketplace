@@ -385,7 +385,7 @@
     },
     {
       "name": "posteverywhere",
-      "description": "PostEverywhere social media scheduling. Write, schedule and publish posts to Instagram, TikTok, YouTube, LinkedIn, Facebook, X, Threads, Pinterest, Bluesky, Telegram, Discord and WordPress, plan content calendars, and review how posts performed.",
+      "description": "Social media scheduler. Write, schedule and publish posts to Instagram, TikTok, YouTube, LinkedIn, Facebook, X, Threads, Pinterest, Bluesky, Telegram, Discord and WordPress, plan a content calendar, cross-post video and see how posts performed.",
       "category": "productivity",
       "source": {
         "source": "url",
@@ -393,7 +393,7 @@
         "sha": "b4d11c1dfbf203bcf0728eaa2d62c2ff70f1ba5f"
       },
       "homepage": "https://posteverywhere.ai",
-      "keywords": ["posteverywhere", "post everywhere", "posteverywhere schedule post"],
+      "keywords": ["social media scheduler", "schedule social media posts", "content calendar", "social media management", "cross-post", "instagram", "tiktok", "linkedin", "x twitter", "youtube shorts", "posteverywhere"],
       "domains": ["posteverywhere.ai"]
     }
 ]
