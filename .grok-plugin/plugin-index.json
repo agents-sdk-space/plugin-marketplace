@@ -1209,6 +1209,32 @@
         ]
       }
     },
+    "templated": {
+      "sha": "11c6c59940513ba3d4f0aa45e4ddea7650ebb951",
+      "version": "1.0.0",
+      "components": {
+        "mcpServers": [
+          {
+            "name": "templated",
+            "description": "http"
+          }
+        ],
+        "skills": [
+          {
+            "name": "setup",
+            "description": "First-run setup for Templated: check the connected account's templates, offer to design one from a short brief when the…"
+          },
+          {
+            "name": "templated",
+            "description": "Render images (PNG, JPG, WebP), PDFs and MP4 videos from the user's Templated templates, such as social media posts, ba…"
+          },
+          {
+            "name": "templated-design",
+            "description": "Design a new Templated template from a short brief, or fix the layout of an existing one, with create_template and upda…"
+          }
+        ]
+      }
+    },
     "tinyfish": {
       "sha": "dca9193afeb4185da3caac9324fa33be17d0deac",
       "version": "1.1.1",

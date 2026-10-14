@@ -433,6 +433,31 @@
       "homepage": "https://htmlcsstoimage.com",
       "keywords": ["html/css to image", "html css to image", "html-to-image", "html to image api", "hcti", "image generation", "screenshot", "url screenshot", "pdf", "image templates", "open graph image", "social preview"],
       "domains": ["htmlcsstoimage.com", "docs.htmlcsstoimage.com", "hcti.io", "mcp.hcti.io"]
+    },
+    {
+      "name": "templated",
+      "description": "Templated integration with a hosted OAuth MCP server and skills. Render images (PNG, JPG, WebP), PDFs and MP4 videos from your Templated templates with new text, images and colors, design new templates from a short brief, render batches and merge them into one PDF.",
+      "category": "development",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/templated-io/mcp-server-templated.git",
+        "sha": "11c6c59940513ba3d4f0aa45e4ddea7650ebb951"
+      },
+      "homepage": "https://templated.io",
+      "keywords": [
+        "templated",
+        "templated.io",
+        "templated api",
+        "templated mcp",
+        "templated template",
+        "templated render"
+      ],
+      "domains": [
+        "templated.io",
+        "app.templated.io",
+        "api.templated.io",
+        "mcp.templated.io"
+      ]
     }
   ]
 }
