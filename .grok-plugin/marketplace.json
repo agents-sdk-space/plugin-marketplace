@@ -433,6 +433,18 @@
       "homepage": "https://htmlcsstoimage.com",
       "keywords": ["html/css to image", "html css to image", "html-to-image", "html to image api", "hcti", "image generation", "screenshot", "url screenshot", "pdf", "image templates", "open graph image", "social preview"],
       "domains": ["htmlcsstoimage.com", "docs.htmlcsstoimage.com", "hcti.io", "mcp.hcti.io"]
+    },
+    {
+      "name": "story-skills",
+      "description": "Fiction-writing workflows in plain markdown: premise, characters, worldbuilding, plot, chapter drafting, revision, continuity and pacing checks, editorial review, and manuscript export, with a deterministic story CLI for validation and word counts.",
+      "category": "productivity",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/danjdewhurst/story-skills.git",
+        "sha": "415181fea2a19fdeb762df4d689652072d138f54"
+      },
+      "homepage": "https://github.com/danjdewhurst/story-skills",
+      "keywords": ["story-skills", "story skills"]
     }
   ]
 }
