@@ -327,8 +327,8 @@
       }
     },
     "figma": {
-      "sha": "b0bfad2ae63dfdc1af201c5542b5c8cf93778b33",
-      "version": "2.2.152",
+      "sha": "2b85b7d27bd6ee124667fcfe88856f6b1f81671a",
+      "version": "2.2.155",
       "components": {
         "mcpServers": [
           {
@@ -472,6 +472,28 @@
           {
             "name": "helena",
             "description": "http"
+          }
+        ]
+      }
+    },
+    "html-css-to-image": {
+      "sha": "73eb09e39e26cf7029800533ef180bbe0286fd73",
+      "version": "0.2.0",
+      "components": {
+        "mcpServers": [
+          {
+            "name": "hcti",
+            "description": "http"
+          }
+        ],
+        "skills": [
+          {
+            "name": "hcti-image-generation",
+            "description": "Let AI agents capture live website screenshots, render HTML/CSS, and populate reusable templates as images or PDFs—with…"
+          },
+          {
+            "name": "hcti-open-graph-images",
+            "description": "Create and implement HCTI dynamic Open Graph image configurations that render webpages or populate templates from page…"
           }
         ]
       }
@@ -700,8 +722,46 @@
         ]
       }
     },
+    "pi-security": {
+      "sha": "dcf8dc9fcc2b54866866d2d07b1e85a3bda05d85",
+      "version": "0.2.1",
+      "components": {
+        "mcpServers": [
+          {
+            "name": "pi-security",
+            "description": "http"
+          }
+        ],
+        "skills": [
+          {
+            "name": "ingest-markdown-report",
+            "description": "Submit one security report to Pi from inline Markdown and a .md or .markdown filename after tenant verification and fre…"
+          },
+          {
+            "name": "investigate-finding",
+            "description": "Investigate Pi Security findings by listing, locating, explaining, summarizing, or comparing exact FND-XXX IDs, UUIDs,…"
+          },
+          {
+            "name": "remediation-guidance",
+            "description": "Fetch existing Pi remediation guidance for a finding or vulnerable package, and optionally prepare one missing package…"
+          },
+          {
+            "name": "review-security-posture",
+            "description": "Review Pi Security posture by combining threat-model application context with Code Gatekeeper pull-request and issue re…"
+          },
+          {
+            "name": "secure-development-playbook",
+            "description": "Retrieve Pi secure-development guidance once for a stable engineering task, reconcile it with current repository eviden…"
+          },
+          {
+            "name": "security-design-review",
+            "description": "Start one Pi Security design review from a supported Confluence or Notion URL or inline Markdown after tenant verificat…"
+          }
+        ]
+      }
+    },
     "pstack": {
-      "sha": "1dcc2bacde73ddd284803b7af28164d0436198fc",
+      "sha": "1e5c90a4b6f249917bd21fe361b3a2a7deb741b8",
       "components": {
         "agents": [
           {
@@ -763,12 +823,16 @@
             "description": "Use for \\\"how does X work\\\", code walkthroughs before changing something, and placement / ownership / layering question…"
           },
           {
+            "name": "in-your-own-words",
+            "description": "Restate in your own words what you think the user's goals are and what problem they're trying to solve. Use for /in-you…"
+          },
+          {
             "name": "interrogate",
             "description": "Use for \\\"interrogate\\\", \\\"adversarial review\\\", \\\"multi-model review\\\", \\\"challenge this\\\", \\\"stress test this code\\\",…"
           },
           {
             "name": "ketchup",
-            "description": "Catch the user up on everything in this chat since their last message, in plain words. Give each action item an executi…"
+            "description": "Catch the user up on what changed in this chat since their last message, in a few plain sentences and small visuals. Gi…"
           },
           {
             "name": "maintain-verification-skill",
@@ -891,6 +955,10 @@
             "description": "Configure which models pstack uses per role and at what reasoning budget. Detects your available models and writes an a…"
           },
           {
+            "name": "sharpen",
+            "description": "Sharpen a task before starting: the expert approach, what the user is really after, and the right level of specificatio…"
+          },
+          {
             "name": "show-me-your-work",
             "description": "Keep a reviewable decision trail for long-running or unattended work: a TSV log with one row per decision (what, why, e…"
           },
@@ -905,14 +973,6 @@
           {
             "name": "teach",
             "description": "Explain a body of work plainly so a person actually understands it. Runs the `how` and `why` skills and weaves what the…"
-          },
-          {
-            "name": "technical-writing",
-            "description": "Layered technical-writing standard: Diátaxis structure, Google developer style sentences, STE instruction rules, Global…"
-          },
-          {
-            "name": "typescript-best-practices",
-            "description": "TypeScript best practices. Use when reading or editing any .ts or .tsx file."
           }
         ]
       }
@@ -930,8 +990,8 @@
       }
     },
     "railway": {
-      "sha": "4db2ee90245d61be0ffea28280164373ac3f96c0",
-      "version": "1.6.1",
+      "sha": "526e95524e964ed326689cbac4464d97a58ab81c",
+      "version": "1.7.0",
       "components": {
         "hooks": [
           {
@@ -1018,8 +1078,8 @@
       }
     },
     "stripe": {
-      "sha": "deae744bc0cbf6034b4b6f22f51c690b71a4e779",
-      "version": "0.9.17",
+      "sha": "789ef5e0a55ee1d0787a5974660b15bf76dc29b5",
+      "version": "0.9.18",
       "components": {
         "agents": [
           {
