@@ -903,6 +903,9 @@
     "stripe": {
       "sha": "da4991b0a0b9299d423ae2d5856e6d7e2b31b031",
       "version": "0.7.2",
+      "sha": "1b71f4bcc916dcabda8816964091ab23664c84df",
+      "version": "0.3.0",
+
       "components": {
         "agents": [
           {
