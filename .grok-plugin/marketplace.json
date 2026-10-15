@@ -447,6 +447,18 @@
       "homepage": "https://www.pi.security/",
       "keywords": ["pi security", "pi security appsec", "pi security findings", "pi security remediation", "pi security threat modeling", "pi security design review"],
       "domains": ["pi.security", "mcp.pi.security"]
+    },
+    {
+      "name": "strategyx",
+      "description": "StrategyX strategy execution integration (hosted MCP server). Review actions, tactical projects, success factors, focus goals, KPI reports and approvals, look up people and departments, and add items and notes. Sign in with your StrategyX account; no API key needed.",
+      "category": "productivity",
+      "source": {
+        "type": "local",
+        "path": "./external_plugins/strategyx"
+      },
+      "homepage": "https://www.strategyexe.com",
+      "keywords": ["strategyx", "strategyx actions", "strategyx kpi", "strategyx mcp"],
+      "domains": ["strategyexe.com", "strategyx.app", "mcp.strategyx.app", "auth.strategyx.app"]
     }
   ]
 }

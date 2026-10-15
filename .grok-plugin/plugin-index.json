@@ -1035,6 +1035,17 @@
         ]
       }
     },
+    "strategyx": {
+      "version": "1.0.0",
+      "components": {
+        "mcpServers": [
+          {
+            "name": "strategyx",
+            "description": "http"
+          }
+        ]
+      }
+    },
     "stripe": {
       "sha": "789ef5e0a55ee1d0787a5974660b15bf76dc29b5",
       "version": "0.9.18",
