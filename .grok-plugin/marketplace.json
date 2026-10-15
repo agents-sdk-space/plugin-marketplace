@@ -451,7 +451,7 @@
     {
       "name": "padlet",
       "description": "Work with your Padlet boards through Padlet's hosted MCP server. List, search, and read padlets; create padlets; create, edit, connect, and comment on posts; and analyse post attachments. Sign in with your own Padlet account on first connection — no API keys, nothing to run locally.",
-      "category": "development",
+      "category": "productivity",
       "source": {
         "source": "url",
         "url": "https://github.com/padlet/agent-plugins.git",
