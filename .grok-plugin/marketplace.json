@@ -447,6 +447,19 @@
       "homepage": "https://www.pi.security/",
       "keywords": ["pi security", "pi security appsec", "pi security findings", "pi security remediation", "pi security threat modeling", "pi security design review"],
       "domains": ["pi.security", "mcp.pi.security"]
+    },
+    {
+      "name": "logospell",
+      "description": "AI image generation for your agent (MCP server). One call returns a cohesive image set, a character set or an illustration set, image and character sets on a solid color or transparent; every set can be extended, edited, or exported for the web, iOS, Android and Flutter.",
+      "category": "development",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/logospell/logospell-mcp-server.git",
+        "sha": "f0168bcd1cf2964209b024c020f29cb74b4ac31e"
+      },
+      "homepage": "https://logospell.com",
+      "keywords": ["logospell", "logospell mcp", "logospell image set", "logospell character set", "logospell illustration set"],
+      "domains": ["logospell.com", "mcp.logospell.com"]
     }
   ]
 }
